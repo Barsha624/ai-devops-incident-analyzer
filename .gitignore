@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets - never commit real credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local output
+/out/
+/tmp/
+reports/
+!examples/reports/
+*.log.local
+.DS_Store
