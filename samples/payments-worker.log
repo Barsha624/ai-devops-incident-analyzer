@@ -1,0 +1,441 @@
+2026-10-31 09:00:00,121 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:00:10,665 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:00:20,080 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:00:30,620 - payments-worker - INFO - processed batch size=19
+2026-10-31 09:00:40,855 - payments-worker - INFO - processed batch size=14
+2026-10-31 09:00:50,882 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:01:00,032 - payments-worker - INFO - processed batch size=5
+2026-10-31 09:01:10,305 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:01:20,286 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:01:30,387 - payments-worker - INFO - processed batch size=8
+2026-10-31 09:01:40,223 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:01:50,239 - payments-worker - INFO - processed batch size=10
+2026-10-31 09:02:00,011 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:02:10,355 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:02:20,176 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:02:30,949 - payments-worker - INFO - processed batch size=8
+2026-10-31 09:02:40,963 - payments-worker - INFO - processed batch size=14
+2026-10-31 09:02:50,285 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:03:00,735 - payments-worker - INFO - processed batch size=17
+2026-10-31 09:03:10,992 - payments-worker - INFO - processed batch size=29
+2026-10-31 09:03:20,033 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:03:30,159 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:03:40,749 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:03:50,480 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:04:00,096 - payments-worker - INFO - processed batch size=22
+2026-10-31 09:04:10,983 - payments-worker - INFO - processed batch size=24
+2026-10-31 09:04:20,075 - payments-worker - INFO - processed batch size=5
+2026-10-31 09:04:30,308 - payments-worker - INFO - processed batch size=10
+2026-10-31 09:04:40,550 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:04:50,115 - payments-worker - INFO - processed batch size=8
+2026-10-31 09:05:00,464 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:05:10,369 - payments-worker - INFO - processed batch size=6
+2026-10-31 09:05:20,581 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:05:30,767 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:05:40,687 - payments-worker - INFO - processed batch size=6
+2026-10-31 09:05:50,476 - payments-worker - INFO - processed batch size=5
+2026-10-31 09:06:00,329 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:06:10,736 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:06:20,500 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:06:30,067 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:06:40,518 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:06:50,843 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:07:00,527 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:07:10,720 - payments-worker - INFO - processed batch size=29
+2026-10-31 09:07:20,730 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:07:30,817 - payments-worker - INFO - processed batch size=24
+2026-10-31 09:07:40,027 - payments-worker - INFO - processed batch size=19
+2026-10-31 09:07:50,601 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:08:00,159 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:08:10,568 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:08:20,707 - payments-worker - INFO - processed batch size=17
+2026-10-31 09:08:30,982 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:08:40,954 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:08:50,297 - payments-worker - INFO - processed batch size=8
+2026-10-31 09:09:00,094 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:09:10,364 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:09:20,133 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:09:30,579 - payments-worker - INFO - processed batch size=9
+2026-10-31 09:09:40,308 - payments-worker - INFO - processed batch size=29
+2026-10-31 09:09:50,185 - payments-worker - INFO - processed batch size=13
+2026-10-31 09:10:00,072 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:10:10,039 - payments-worker - INFO - processed batch size=5
+2026-10-31 09:10:20,195 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:10:30,569 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:10:40,872 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:10:50,089 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:11:00,882 - payments-worker - INFO - processed batch size=24
+2026-10-31 09:11:10,017 - payments-worker - INFO - processed batch size=19
+2026-10-31 09:11:20,548 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:11:30,020 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:11:40,051 - payments-worker - INFO - processed batch size=8
+2026-10-31 09:11:50,202 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:12:05,414 - payments-worker - ERROR - Failed to charge order 45784: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:12:20,384 - payments-worker - ERROR - Failed to charge order 42602: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:12:35,741 - payments-worker - ERROR - Failed to charge order 40954: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:12:50,829 - payments-worker - ERROR - Failed to charge order 41664: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:13:05,285 - payments-worker - ERROR - Failed to charge order 42271: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:13:20,493 - payments-worker - ERROR - Failed to charge order 45040: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:13:35,594 - payments-worker - ERROR - Failed to charge order 42708: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:13:50,791 - payments-worker - ERROR - Failed to charge order 42524: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:14:05,463 - payments-worker - ERROR - Failed to charge order 46087: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:14:20,692 - payments-worker - ERROR - Failed to charge order 45460: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:14:35,414 - payments-worker - ERROR - Failed to charge order 44012: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:14:50,955 - payments-worker - ERROR - Failed to charge order 49381: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:15:05,623 - payments-worker - ERROR - Failed to charge order 48511: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:15:20,654 - payments-worker - ERROR - Failed to charge order 40085: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:15:35,658 - payments-worker - ERROR - Failed to charge order 42127: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:15:50,459 - payments-worker - ERROR - Failed to charge order 43256: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:16:05,825 - payments-worker - ERROR - Failed to charge order 45780: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:16:20,124 - payments-worker - ERROR - Failed to charge order 49949: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:16:35,068 - payments-worker - ERROR - Failed to charge order 48891: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:16:50,768 - payments-worker - ERROR - Failed to charge order 47357: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:17:05,384 - payments-worker - ERROR - Failed to charge order 41622: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:17:20,787 - payments-worker - ERROR - Failed to charge order 48505: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:17:35,235 - payments-worker - ERROR - Failed to charge order 49772: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:17:50,367 - payments-worker - ERROR - Failed to charge order 49042: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:18:05,772 - payments-worker - ERROR - Failed to charge order 44870: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:18:20,303 - payments-worker - ERROR - Failed to charge order 48021: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:18:35,289 - payments-worker - ERROR - Failed to charge order 45869: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:18:50,892 - payments-worker - ERROR - Failed to charge order 42802: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:19:05,845 - payments-worker - ERROR - Failed to charge order 41434: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:19:20,579 - payments-worker - ERROR - Failed to charge order 46848: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:19:35,075 - payments-worker - ERROR - Failed to charge order 41572: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:19:50,927 - payments-worker - ERROR - Failed to charge order 45716: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:20:00,212 - payments-worker - CRITICAL - consumer pool exhausted, restarting worker
+2026-10-31 09:20:05,965 - payments-worker - ERROR - Failed to charge order 42080: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:20:20,453 - payments-worker - ERROR - Failed to charge order 48194: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:20:35,674 - payments-worker - ERROR - Failed to charge order 49894: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:20:50,056 - payments-worker - ERROR - Failed to charge order 47257: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:21:05,334 - payments-worker - ERROR - Failed to charge order 48695: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:21:20,281 - payments-worker - ERROR - Failed to charge order 49273: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:21:35,253 - payments-worker - ERROR - Failed to charge order 47462: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:21:50,882 - payments-worker - ERROR - Failed to charge order 46223: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:22:05,937 - payments-worker - ERROR - Failed to charge order 44013: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:22:20,583 - payments-worker - ERROR - Failed to charge order 44787: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:22:35,875 - payments-worker - ERROR - Failed to charge order 48565: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:22:50,828 - payments-worker - ERROR - Failed to charge order 43044: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:23:05,940 - payments-worker - ERROR - Failed to charge order 44141: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:23:20,806 - payments-worker - ERROR - Failed to charge order 47997: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:23:35,840 - payments-worker - ERROR - Failed to charge order 48346: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:23:50,341 - payments-worker - ERROR - Failed to charge order 41837: connection timed out
+Traceback (most recent call last):
+  File "/app/payments/charge.py", line 88, in charge
+    conn = pool.acquire()
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00
+2026-10-31 09:24:00,307 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:24:10,679 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:24:20,635 - payments-worker - INFO - processed batch size=6
+2026-10-31 09:24:30,446 - payments-worker - INFO - processed batch size=22
+2026-10-31 09:24:30,374 - payments-worker - INFO - connection pool recovered
+2026-10-31 09:24:40,283 - payments-worker - INFO - processed batch size=22
+2026-10-31 09:24:50,675 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:25:00,618 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:25:10,732 - payments-worker - INFO - processed batch size=22
+2026-10-31 09:25:20,131 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:25:30,642 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:25:40,396 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:25:50,485 - payments-worker - INFO - processed batch size=28
+2026-10-31 09:26:00,871 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:26:10,010 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:26:20,725 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:26:30,753 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:26:40,911 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:26:50,961 - payments-worker - INFO - processed batch size=22
+2026-10-31 09:27:00,156 - payments-worker - INFO - processed batch size=25
+2026-10-31 09:27:10,285 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:27:20,723 - payments-worker - INFO - processed batch size=25
+2026-10-31 09:27:30,728 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:27:40,718 - payments-worker - INFO - processed batch size=8
+2026-10-31 09:27:50,002 - payments-worker - INFO - processed batch size=22
+2026-10-31 09:28:00,716 - payments-worker - INFO - processed batch size=19
+2026-10-31 09:28:10,839 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:28:20,780 - payments-worker - INFO - processed batch size=29
+2026-10-31 09:28:30,101 - payments-worker - INFO - processed batch size=13
+2026-10-31 09:28:40,425 - payments-worker - INFO - processed batch size=9
+2026-10-31 09:28:50,494 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:29:00,001 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:29:10,836 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:29:20,056 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:29:30,613 - payments-worker - INFO - processed batch size=11
+2026-10-31 09:29:40,013 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:29:50,971 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:30:00,248 - payments-worker - INFO - processed batch size=28
+2026-10-31 09:30:10,500 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:30:20,863 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:30:30,677 - payments-worker - INFO - processed batch size=24
+2026-10-31 09:30:40,617 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:30:50,125 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:31:00,225 - payments-worker - INFO - processed batch size=11
+2026-10-31 09:31:10,005 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:31:20,745 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:31:30,476 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:31:40,177 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:31:50,702 - payments-worker - INFO - processed batch size=9
+2026-10-31 09:32:00,282 - payments-worker - INFO - processed batch size=5
+2026-10-31 09:32:10,764 - payments-worker - INFO - processed batch size=13
+2026-10-31 09:32:20,916 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:32:30,127 - payments-worker - INFO - processed batch size=14
+2026-10-31 09:32:40,289 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:32:50,673 - payments-worker - INFO - processed batch size=11
+2026-10-31 09:33:00,770 - payments-worker - INFO - processed batch size=9
+2026-10-31 09:33:10,990 - payments-worker - INFO - processed batch size=10
+2026-10-31 09:33:20,200 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:33:30,274 - payments-worker - INFO - processed batch size=14
+2026-10-31 09:33:40,721 - payments-worker - INFO - processed batch size=5
+2026-10-31 09:33:50,638 - payments-worker - INFO - processed batch size=6
+2026-10-31 09:34:00,022 - payments-worker - INFO - processed batch size=25
+2026-10-31 09:34:10,761 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:34:20,083 - payments-worker - INFO - processed batch size=29
+2026-10-31 09:34:30,630 - payments-worker - INFO - processed batch size=19
+2026-10-31 09:34:40,239 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:34:50,996 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:35:00,837 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:35:10,794 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:35:20,090 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:35:30,938 - payments-worker - INFO - processed batch size=6
+2026-10-31 09:35:40,066 - payments-worker - INFO - processed batch size=11
+2026-10-31 09:35:50,132 - payments-worker - INFO - processed batch size=8
+2026-10-31 09:36:00,394 - payments-worker - INFO - processed batch size=25
+2026-10-31 09:36:10,838 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:36:20,716 - payments-worker - INFO - processed batch size=22
+2026-10-31 09:36:30,880 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:36:40,522 - payments-worker - INFO - processed batch size=19
+2026-10-31 09:36:50,183 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:37:00,452 - payments-worker - INFO - processed batch size=24
+2026-10-31 09:37:10,948 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:37:20,243 - payments-worker - INFO - processed batch size=9
+2026-10-31 09:37:30,258 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:37:40,867 - payments-worker - INFO - processed batch size=6
+2026-10-31 09:37:50,089 - payments-worker - INFO - processed batch size=26
+2026-10-31 09:38:00,961 - payments-worker - INFO - processed batch size=14
+2026-10-31 09:38:10,545 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:38:20,202 - payments-worker - INFO - processed batch size=29
+2026-10-31 09:38:30,840 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:38:40,784 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:38:50,269 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:39:00,919 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:39:10,517 - payments-worker - INFO - processed batch size=28
+2026-10-31 09:39:20,784 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:39:30,988 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:39:40,116 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:39:50,487 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:40:00,259 - payments-worker - INFO - processed batch size=24
+2026-10-31 09:40:10,516 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:40:20,384 - payments-worker - INFO - processed batch size=19
+2026-10-31 09:40:30,750 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:40:40,801 - payments-worker - INFO - processed batch size=28
+2026-10-31 09:40:50,811 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:41:00,223 - payments-worker - INFO - processed batch size=28
+2026-10-31 09:41:10,563 - payments-worker - INFO - processed batch size=29
+2026-10-31 09:41:20,661 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:41:30,501 - payments-worker - INFO - processed batch size=21
+2026-10-31 09:41:40,119 - payments-worker - INFO - processed batch size=15
+2026-10-31 09:41:50,501 - payments-worker - INFO - processed batch size=24
+2026-10-31 09:42:00,183 - payments-worker - INFO - processed batch size=18
+2026-10-31 09:42:10,542 - payments-worker - INFO - processed batch size=9
+2026-10-31 09:42:20,603 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:42:30,110 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:42:40,078 - payments-worker - INFO - processed batch size=16
+2026-10-31 09:42:50,331 - payments-worker - INFO - processed batch size=24
+2026-10-31 09:43:00,399 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:43:10,669 - payments-worker - INFO - processed batch size=27
+2026-10-31 09:43:20,615 - payments-worker - INFO - processed batch size=11
+2026-10-31 09:43:30,341 - payments-worker - INFO - processed batch size=7
+2026-10-31 09:43:40,257 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:43:50,185 - payments-worker - INFO - processed batch size=30
+2026-10-31 09:44:00,164 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:44:10,728 - payments-worker - INFO - processed batch size=12
+2026-10-31 09:44:20,266 - payments-worker - INFO - processed batch size=20
+2026-10-31 09:44:30,859 - payments-worker - INFO - processed batch size=23
+2026-10-31 09:44:40,712 - payments-worker - INFO - processed batch size=6
+2026-10-31 09:44:50,975 - payments-worker - INFO - processed batch size=30
+Segmentation note: stderr line without a timestamp

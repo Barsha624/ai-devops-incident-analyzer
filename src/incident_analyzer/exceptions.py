@@ -17,6 +17,10 @@ class LogReadError(IncidentAnalyzerError):
     """A log file or stream could not be opened or read."""
 
 
+class ReportWriteError(IncidentAnalyzerError):
+    """The report or metrics file could not be written."""
+
+
 class MalformedLogError(IncidentAnalyzerError):
     """Raised only in ``--strict`` mode when malformed lines are found."""
 

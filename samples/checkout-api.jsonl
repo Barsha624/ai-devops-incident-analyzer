@@ -1,0 +1,834 @@
+{"timestamp": "2026-10-31T09:00:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46803", "status": 201, "duration_ms": 113}
+{"timestamp": "2026-10-31T09:00:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40944", "status": 201, "duration_ms": 317}
+{"timestamp": "2026-10-31T09:00:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49172", "status": 201, "duration_ms": 148}
+{"timestamp": "2026-10-31T09:00:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45995", "status": 201, "duration_ms": 355}
+{"timestamp": "2026-10-31T09:00:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41062", "status": 201, "duration_ms": 241}
+{"timestamp": "2026-10-31T09:00:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40825", "status": 201, "duration_ms": 296}
+{"timestamp": "2026-10-31T09:00:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47621", "status": 201, "duration_ms": 398}
+{"timestamp": "2026-10-31T09:00:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46718", "status": 201, "duration_ms": 41}
+{"timestamp": "2026-10-31T09:00:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49593", "status": 201, "duration_ms": 386}
+{"timestamp": "2026-10-31T09:00:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49814", "status": 201, "duration_ms": 91}
+{"timestamp": "2026-10-31T09:00:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45423", "status": 201, "duration_ms": 337}
+{"timestamp": "2026-10-31T09:00:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49281", "status": 201, "duration_ms": 81}
+{"timestamp": "2026-10-31T09:00:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42169", "status": 201, "duration_ms": 102}
+{"timestamp": "2026-10-31T09:00:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44150", "status": 201, "duration_ms": 211}
+{"timestamp": "2026-10-31T09:00:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49551", "status": 201, "duration_ms": 110}
+{"timestamp": "2026-10-31T09:01:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40084", "status": 201, "duration_ms": 345}
+{"timestamp": "2026-10-31T09:01:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47007", "status": 201, "duration_ms": 249}
+{"timestamp": "2026-10-31T09:01:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47319", "status": 201, "duration_ms": 96}
+{"timestamp": "2026-10-31T09:01:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40606", "status": 201, "duration_ms": 54}
+{"timestamp": "2026-10-31T09:01:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42860", "status": 201, "duration_ms": 330}
+{"timestamp": "2026-10-31T09:01:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40703", "status": 201, "duration_ms": 227}
+{"timestamp": "2026-10-31T09:01:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46475", "status": 201, "duration_ms": 338}
+{"timestamp": "2026-10-31T09:01:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41665", "status": 201, "duration_ms": 155}
+{"timestamp": "2026-10-31T09:01:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40731", "status": 201, "duration_ms": 151}
+{"timestamp": "2026-10-31T09:01:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45602", "status": 201, "duration_ms": 76}
+{"timestamp": "2026-10-31T09:01:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41398", "status": 201, "duration_ms": 159}
+{"timestamp": "2026-10-31T09:01:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40244", "status": 201, "duration_ms": 373}
+{"timestamp": "2026-10-31T09:01:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49821", "status": 201, "duration_ms": 364}
+{"timestamp": "2026-10-31T09:01:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41047", "status": 201, "duration_ms": 188}
+{"timestamp": "2026-10-31T09:01:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43049", "status": 201, "duration_ms": 252}
+{"timestamp": "2026-10-31T09:02:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44731", "status": 201, "duration_ms": 42}
+{"timestamp": "2026-10-31T09:02:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43503", "status": 201, "duration_ms": 353}
+{"timestamp": "2026-10-31T09:02:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46082", "status": 201, "duration_ms": 357}
+{"timestamp": "2026-10-31T09:02:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44339", "status": 201, "duration_ms": 100}
+{"timestamp": "2026-10-31T09:02:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45823", "status": 201, "duration_ms": 97}
+{"timestamp": "2026-10-31T09:02:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44252", "status": 201, "duration_ms": 83}
+{"timestamp": "2026-10-31T09:02:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42745", "status": 201, "duration_ms": 375}
+{"timestamp": "2026-10-31T09:02:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46875", "status": 201, "duration_ms": 354}
+{"timestamp": "2026-10-31T09:02:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49672", "status": 201, "duration_ms": 295}
+{"timestamp": "2026-10-31T09:02:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46785", "status": 201, "duration_ms": 387}
+{"timestamp": "2026-10-31T09:02:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46943", "status": 201, "duration_ms": 270}
+{"timestamp": "2026-10-31T09:02:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46849", "status": 201, "duration_ms": 255}
+{"timestamp": "2026-10-31T09:02:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48863", "status": 201, "duration_ms": 44}
+{"timestamp": "2026-10-31T09:02:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40034", "status": 201, "duration_ms": 85}
+{"timestamp": "2026-10-31T09:02:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42432", "status": 201, "duration_ms": 297}
+{"timestamp": "2026-10-31T09:03:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41176", "status": 201, "duration_ms": 223}
+{"timestamp": "2026-10-31T09:03:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48086", "status": 201, "duration_ms": 293}
+{"timestamp": "2026-10-31T09:03:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49805", "status": 201, "duration_ms": 341}
+{"timestamp": "2026-10-31T09:03:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48658", "status": 201, "duration_ms": 96}
+{"timestamp": "2026-10-31T09:03:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45691", "status": 201, "duration_ms": 340}
+{"timestamp": "2026-10-31T09:03:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45690", "status": 201, "duration_ms": 115}
+{"timestamp": "2026-10-31T09:03:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45916", "status": 201, "duration_ms": 111}
+{"timestamp": "2026-10-31T09:03:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43330", "status": 201, "duration_ms": 282}
+{"timestamp": "2026-10-31T09:03:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49495", "status": 201, "duration_ms": 76}
+{"timestamp": "2026-10-31T09:03:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48122", "status": 201, "duration_ms": 69}
+{"timestamp": "2026-10-31T09:03:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43415", "status": 201, "duration_ms": 352}
+{"timestamp": "2026-10-31T09:03:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48908", "status": 201, "duration_ms": 361}
+{"timestamp": "2026-10-31T09:03:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43456", "status": 201, "duration_ms": 356}
+{"timestamp": "2026-10-31T09:03:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46260", "status": 201, "duration_ms": 249}
+{"timestamp": "2026-10-31T09:03:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40809", "status": 201, "duration_ms": 284}
+{"timestamp": "2026-10-31T09:04:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45200", "status": 201, "duration_ms": 140}
+{"timestamp": "2026-10-31T09:04:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41274", "status": 201, "duration_ms": 45}
+{"timestamp": "2026-10-31T09:04:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42257", "status": 201, "duration_ms": 68}
+{"timestamp": "2026-10-31T09:04:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47753", "status": 201, "duration_ms": 52}
+{"timestamp": "2026-10-31T09:04:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46167", "status": 201, "duration_ms": 299}
+{"timestamp": "2026-10-31T09:04:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45284", "status": 201, "duration_ms": 97}
+{"timestamp": "2026-10-31T09:04:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46602", "status": 201, "duration_ms": 204}
+{"timestamp": "2026-10-31T09:04:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42177", "status": 201, "duration_ms": 351}
+{"timestamp": "2026-10-31T09:04:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42235", "status": 201, "duration_ms": 377}
+{"timestamp": "2026-10-31T09:04:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41770", "status": 201, "duration_ms": 246}
+{"timestamp": "2026-10-31T09:04:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44378", "status": 201, "duration_ms": 82}
+{"timestamp": "2026-10-31T09:04:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44269", "status": 201, "duration_ms": 71}
+{"timestamp": "2026-10-31T09:04:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40342", "status": 201, "duration_ms": 61}
+{"timestamp": "2026-10-31T09:04:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41888", "status": 201, "duration_ms": 158}
+{"timestamp": "2026-10-31T09:04:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48285", "status": 201, "duration_ms": 40}
+{"timestamp": "2026-10-31T09:05:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44505", "status": 201, "duration_ms": 395}
+{"timestamp": "2026-10-31T09:05:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49196", "status": 201, "duration_ms": 77}
+{"timestamp": "2026-10-31T09:05:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49536", "status": 201, "duration_ms": 356}
+{"timestamp": "2026-10-31T09:05:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47844", "status": 201, "duration_ms": 274}
+{"timestamp": "2026-10-31T09:05:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43802", "status": 201, "duration_ms": 378}
+{"timestamp": "2026-10-31T09:05:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46122", "status": 201, "duration_ms": 297}
+{"timestamp": "2026-10-31T09:05:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42575", "status": 201, "duration_ms": 399}
+{"timestamp": "2026-10-31T09:05:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46179", "status": 201, "duration_ms": 341}
+{"timestamp": "2026-10-31T09:05:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41366", "status": 201, "duration_ms": 104}
+{"timestamp": "2026-10-31T09:05:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43082", "status": 201, "duration_ms": 300}
+{"timestamp": "2026-10-31T09:05:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45296", "status": 201, "duration_ms": 346}
+{"timestamp": "2026-10-31T09:05:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49198", "status": 201, "duration_ms": 390}
+{"timestamp": "2026-10-31T09:05:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46704", "status": 201, "duration_ms": 123}
+{"timestamp": "2026-10-31T09:05:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40863", "status": 201, "duration_ms": 194}
+{"timestamp": "2026-10-31T09:05:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42654", "status": 201, "duration_ms": 199}
+{"timestamp": "2026-10-31T09:06:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46704", "status": 201, "duration_ms": 324}
+{"timestamp": "2026-10-31T09:06:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46926", "status": 201, "duration_ms": 114}
+{"timestamp": "2026-10-31T09:06:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48142", "status": 201, "duration_ms": 363}
+{"timestamp": "2026-10-31T09:06:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43475", "status": 201, "duration_ms": 328}
+{"timestamp": "2026-10-31T09:06:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45972", "status": 201, "duration_ms": 346}
+{"timestamp": "2026-10-31T09:06:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44214", "status": 201, "duration_ms": 150}
+{"timestamp": "2026-10-31T09:06:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42776", "status": 201, "duration_ms": 293}
+{"timestamp": "2026-10-31T09:06:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44255", "status": 201, "duration_ms": 89}
+{"timestamp": "2026-10-31T09:06:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47909", "status": 201, "duration_ms": 357}
+{"timestamp": "2026-10-31T09:06:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49036", "status": 201, "duration_ms": 242}
+{"timestamp": "2026-10-31T09:06:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46034", "status": 201, "duration_ms": 260}
+{"timestamp": "2026-10-31T09:06:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42886", "status": 201, "duration_ms": 218}
+{"timestamp": "2026-10-31T09:06:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46577", "status": 201, "duration_ms": 347}
+{"timestamp": "2026-10-31T09:06:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43241", "status": 201, "duration_ms": 293}
+{"timestamp": "2026-10-31T09:06:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44190", "status": 201, "duration_ms": 101}
+{"timestamp": "2026-10-31T09:07:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40557", "status": 201, "duration_ms": 357}
+{"timestamp": "2026-10-31T09:07:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43561", "status": 201, "duration_ms": 245}
+{"timestamp": "2026-10-31T09:07:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47608", "status": 201, "duration_ms": 97}
+{"timestamp": "2026-10-31T09:07:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49679", "status": 201, "duration_ms": 115}
+{"timestamp": "2026-10-31T09:07:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49555", "status": 201, "duration_ms": 99}
+{"timestamp": "2026-10-31T09:07:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45470", "status": 201, "duration_ms": 185}
+{"timestamp": "2026-10-31T09:07:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46271", "status": 201, "duration_ms": 187}
+{"timestamp": "2026-10-31T09:07:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44591", "status": 201, "duration_ms": 295}
+{"timestamp": "2026-10-31T09:07:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49837", "status": 201, "duration_ms": 324}
+{"timestamp": "2026-10-31T09:07:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49864", "status": 201, "duration_ms": 344}
+{"timestamp": "2026-10-31T09:07:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41605", "status": 201, "duration_ms": 48}
+{"timestamp": "2026-10-31T09:07:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49983", "status": 201, "duration_ms": 84}
+{"timestamp": "2026-10-31T09:07:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41283", "status": 201, "duration_ms": 231}
+{"timestamp": "2026-10-31T09:07:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49708", "status": 201, "duration_ms": 247}
+{"timestamp": "2026-10-31T09:07:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49330", "status": 201, "duration_ms": 219}
+{"timestamp": "2026-10-31T09:08:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47466", "status": 201, "duration_ms": 400}
+{"timestamp": "2026-10-31T09:08:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49947", "status": 201, "duration_ms": 361}
+{"timestamp": "2026-10-31T09:08:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40848", "status": 201, "duration_ms": 398}
+{"timestamp": "2026-10-31T09:08:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43853", "status": 201, "duration_ms": 333}
+{"timestamp": "2026-10-31T09:08:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47133", "status": 201, "duration_ms": 103}
+{"timestamp": "2026-10-31T09:08:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40282", "status": 201, "duration_ms": 202}
+{"timestamp": "2026-10-31T09:08:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45828", "status": 201, "duration_ms": 314}
+{"timestamp": "2026-10-31T09:08:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43051", "status": 201, "duration_ms": 89}
+{"timestamp": "2026-10-31T09:08:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40511", "status": 201, "duration_ms": 179}
+{"timestamp": "2026-10-31T09:08:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40966", "status": 201, "duration_ms": 286}
+{"timestamp": "2026-10-31T09:08:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49865", "status": 201, "duration_ms": 194}
+{"timestamp": "2026-10-31T09:08:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44337", "status": 201, "duration_ms": 126}
+{"timestamp": "2026-10-31T09:08:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41321", "status": 201, "duration_ms": 176}
+{"timestamp": "2026-10-31T09:08:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44800", "status": 201, "duration_ms": 94}
+{"timestamp": "2026-10-31T09:08:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40381", "status": 201, "duration_ms": 55}
+{"timestamp": "2026-10-31T09:09:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40475", "status": 201, "duration_ms": 295}
+{"timestamp": "2026-10-31T09:09:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40487", "status": 201, "duration_ms": 388}
+{"timestamp": "2026-10-31T09:09:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49920", "status": 201, "duration_ms": 156}
+{"timestamp": "2026-10-31T09:09:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40681", "status": 201, "duration_ms": 387}
+{"timestamp": "2026-10-31T09:09:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44996", "status": 201, "duration_ms": 218}
+{"timestamp": "2026-10-31T09:09:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40974", "status": 201, "duration_ms": 276}
+{"timestamp": "2026-10-31T09:09:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43551", "status": 201, "duration_ms": 383}
+{"timestamp": "2026-10-31T09:09:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48901", "status": 201, "duration_ms": 260}
+{"timestamp": "2026-10-31T09:09:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46771", "status": 201, "duration_ms": 278}
+{"timestamp": "2026-10-31T09:09:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49706", "status": 201, "duration_ms": 62}
+{"timestamp": "2026-10-31T09:09:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41149", "status": 201, "duration_ms": 114}
+{"timestamp": "2026-10-31T09:09:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42206", "status": 201, "duration_ms": 260}
+{"timestamp": "2026-10-31T09:09:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41596", "status": 201, "duration_ms": 123}
+{"timestamp": "2026-10-31T09:09:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44589", "status": 201, "duration_ms": 128}
+{"timestamp": "2026-10-31T09:09:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41583", "status": 201, "duration_ms": 121}
+{"timestamp": "2026-10-31T09:10:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40208", "status": 201, "duration_ms": 114}
+{"timestamp": "2026-10-31T09:10:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46131", "status": 201, "duration_ms": 44}
+{"timestamp": "2026-10-31T09:10:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40761", "status": 201, "duration_ms": 44}
+{"timestamp": "2026-10-31T09:10:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48260", "status": 201, "duration_ms": 243}
+{"timestamp": "2026-10-31T09:10:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49839", "status": 201, "duration_ms": 363}
+{"timestamp": "2026-10-31T09:10:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45513", "status": 201, "duration_ms": 261}
+{"timestamp": "2026-10-31T09:10:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43875", "status": 201, "duration_ms": 254}
+{"timestamp": "2026-10-31T09:10:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43761", "status": 201, "duration_ms": 192}
+{"timestamp": "2026-10-31T09:10:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49045", "status": 201, "duration_ms": 109}
+{"timestamp": "2026-10-31T09:10:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48949", "status": 201, "duration_ms": 101}
+{"timestamp": "2026-10-31T09:10:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45929", "status": 201, "duration_ms": 339}
+{"timestamp": "2026-10-31T09:10:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47468", "status": 201, "duration_ms": 93}
+{"timestamp": "2026-10-31T09:10:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49006", "status": 201, "duration_ms": 295}
+{"timestamp": "2026-10-31T09:10:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48517", "status": 201, "duration_ms": 277}
+{"timestamp": "2026-10-31T09:10:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44475", "status": 201, "duration_ms": 291}
+{"timestamp": "2026-10-31T09:11:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42130", "status": 201, "duration_ms": 202}
+{"timestamp": "2026-10-31T09:11:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49299", "status": 201, "duration_ms": 299}
+{"timestamp": "2026-10-31T09:11:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43468", "status": 201, "duration_ms": 123}
+{"timestamp": "2026-10-31T09:11:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49467", "status": 201, "duration_ms": 110}
+{"timestamp": "2026-10-31T09:11:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42728", "status": 201, "duration_ms": 234}
+{"timestamp": "2026-10-31T09:11:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49775", "status": 201, "duration_ms": 295}
+{"timestamp": "2026-10-31T09:11:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47353", "status": 201, "duration_ms": 258}
+{"timestamp": "2026-10-31T09:11:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41024", "status": 201, "duration_ms": 273}
+{"timestamp": "2026-10-31T09:11:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42419", "status": 201, "duration_ms": 112}
+{"timestamp": "2026-10-31T09:11:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46948", "status": 201, "duration_ms": 303}
+{"timestamp": "2026-10-31T09:11:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41977", "status": 201, "duration_ms": 385}
+{"timestamp": "2026-10-31T09:11:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46087", "status": 201, "duration_ms": 52}
+{"timestamp": "2026-10-31T09:11:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43047", "status": 201, "duration_ms": 342}
+{"timestamp": "2026-10-31T09:11:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41923", "status": 201, "duration_ms": 202}
+{"timestamp": "2026-10-31T09:11:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41815", "status": 201, "duration_ms": 230}
+{"timestamp": "2026-10-31T09:12:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46342", "status": 201, "duration_ms": 226}
+{"timestamp": "2026-10-31T09:12:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47910", "status": 201, "duration_ms": 249}
+{"timestamp": "2026-10-31T09:12:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40727", "status": 201, "duration_ms": 236}
+{"timestamp": "2026-10-31T09:12:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42887", "status": 201, "duration_ms": 314}
+{"timestamp": "2026-10-31T09:12:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40182", "status": 201, "duration_ms": 44}
+{"timestamp": "2026-10-31T09:12:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49192", "status": 201, "duration_ms": 345}
+{"timestamp": "2026-10-31T09:12:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45057", "status": 201, "duration_ms": 223}
+{"timestamp": "2026-10-31T09:12:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43967", "status": 201, "duration_ms": 149}
+{"timestamp": "2026-10-31T09:12:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45979", "status": 201, "duration_ms": 364}
+{"timestamp": "2026-10-31T09:12:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40532", "status": 201, "duration_ms": 91}
+{"timestamp": "2026-10-31T09:12:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40588", "status": 201, "duration_ms": 256}
+{"timestamp": "2026-10-31T09:12:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40371", "status": 201, "duration_ms": 112}
+{"timestamp": "2026-10-31T09:12:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41345", "status": 201, "duration_ms": 316}
+{"timestamp": "2026-10-31T09:12:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47087", "status": 201, "duration_ms": 152}
+{"timestamp": "2026-10-31T09:12:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49268", "status": 201, "duration_ms": 191}
+{"timestamp": "2026-10-31T09:13:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41067", "status": 201, "duration_ms": 292}
+{"timestamp": "2026-10-31T09:13:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/40161/pay", "status": 504}
+{"timestamp": "2026-10-31T09:13:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29943ms"}
+{"timestamp": "2026-10-31T09:13:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45822", "status": 201, "duration_ms": 250}
+{"timestamp": "2026-10-31T09:13:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45540/pay", "status": 502}
+{"timestamp": "2026-10-31T09:13:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42178", "status": 201, "duration_ms": 273}
+{"timestamp": "2026-10-31T09:13:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43384", "status": 201, "duration_ms": 225}
+{"timestamp": "2026-10-31T09:13:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45709/pay", "status": 502}
+{"timestamp": "2026-10-31T09:13:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47157", "status": 201, "duration_ms": 165}
+{"timestamp": "2026-10-31T09:13:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48817/pay", "status": 502}
+{"timestamp": "2026-10-31T09:13:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49614", "status": 201, "duration_ms": 356}
+{"timestamp": "2026-10-31T09:13:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30098ms"}
+{"timestamp": "2026-10-31T09:13:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45420", "status": 201, "duration_ms": 367}
+{"timestamp": "2026-10-31T09:13:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45474/pay", "status": 502}
+{"timestamp": "2026-10-31T09:13:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41997", "status": 201, "duration_ms": 131}
+{"timestamp": "2026-10-31T09:13:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/42935/pay", "status": 504}
+{"timestamp": "2026-10-31T09:13:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49713", "status": 201, "duration_ms": 292}
+{"timestamp": "2026-10-31T09:13:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47722", "status": 201, "duration_ms": 348}
+{"timestamp": "2026-10-31T09:13:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43516/pay", "status": 502}
+{"timestamp": "2026-10-31T09:13:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43229", "status": 201, "duration_ms": 181}
+{"timestamp": "2026-10-31T09:13:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/49771/pay", "status": 502}
+{"timestamp": "2026-10-31T09:13:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30079ms"}
+{"timestamp": "2026-10-31T09:13:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48096", "status": 201, "duration_ms": 372}
+{"timestamp": "2026-10-31T09:13:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46143", "status": 201, "duration_ms": 98}
+{"timestamp": "2026-10-31T09:13:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/44962/pay", "status": 502}
+{"timestamp": "2026-10-31T09:13:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44986", "status": 201, "duration_ms": 268}
+{"timestamp": "2026-10-31T09:13:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/47096/pay", "status": 502}
+{"timestamp": "2026-10-31T09:13:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41726", "status": 201, "duration_ms": 47}
+{"timestamp": "2026-10-31T09:14:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49534", "status": 201, "duration_ms": 208}
+{"timestamp": "2026-10-31T09:14:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/48020/pay", "status": 504}
+{"timestamp": "2026-10-31T09:14:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30070ms"}
+{"timestamp": "2026-10-31T09:14:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46844", "status": 201, "duration_ms": 245}
+{"timestamp": "2026-10-31T09:14:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/45986/pay", "status": 504}
+{"timestamp": "2026-10-31T09:14:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46475", "status": 201, "duration_ms": 54}
+{"timestamp": "2026-10-31T09:14:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49525", "status": 201, "duration_ms": 70}
+{"timestamp": "2026-10-31T09:14:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/44095/pay", "status": 502}
+{"timestamp": "2026-10-31T09:14:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40777", "status": 201, "duration_ms": 232}
+{"timestamp": "2026-10-31T09:14:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41897/pay", "status": 502}
+{"timestamp": "2026-10-31T09:14:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42563", "status": 201, "duration_ms": 298}
+{"timestamp": "2026-10-31T09:14:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29925ms"}
+{"timestamp": "2026-10-31T09:14:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48030", "status": 201, "duration_ms": 220}
+{"timestamp": "2026-10-31T09:14:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/47212/pay", "status": 504}
+{"timestamp": "2026-10-31T09:14:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43419", "status": 201, "duration_ms": 388}
+{"timestamp": "2026-10-31T09:14:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/46402/pay", "status": 504}
+{"timestamp": "2026-10-31T09:14:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47218", "status": 201, "duration_ms": 322}
+{"timestamp": "2026-10-31T09:14:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45742", "status": 201, "duration_ms": 96}
+{"timestamp": "2026-10-31T09:14:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/40731/pay", "status": 504}
+{"timestamp": "2026-10-31T09:14:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47138", "status": 201, "duration_ms": 365}
+{"timestamp": "2026-10-31T09:14:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/42954/pay", "status": 504}
+{"timestamp": "2026-10-31T09:14:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29994ms"}
+{"timestamp": "2026-10-31T09:14:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44483", "status": 201, "duration_ms": 54}
+{"timestamp": "2026-10-31T09:14:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41718", "status": 201, "duration_ms": 122}
+{"timestamp": "2026-10-31T09:14:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45098/pay", "status": 502}
+{"timestamp": "2026-10-31T09:14:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49514", "status": 201, "duration_ms": 382}
+{"timestamp": "2026-10-31T09:14:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/49095/pay", "status": 504}
+{"timestamp": "2026-10-31T09:14:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44183", "status": 201, "duration_ms": 136}
+{"timestamp": "2026-10-31T09:15:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44113", "status": 201, "duration_ms": 287}
+{"timestamp": "2026-10-31T09:15:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/45217/pay", "status": 504}
+{"timestamp": "2026-10-31T09:15:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29912ms"}
+{"timestamp": "2026-10-31T09:15:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49881", "status": 201, "duration_ms": 378}
+{"timestamp": "2026-10-31T09:15:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48477/pay", "status": 502}
+{"timestamp": "2026-10-31T09:15:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46938", "status": 201, "duration_ms": 249}
+{"timestamp": "2026-10-31T09:15:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41360", "status": 201, "duration_ms": 336}
+{"timestamp": "2026-10-31T09:15:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/44032/pay", "status": 504}
+{"timestamp": "2026-10-31T09:15:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43987", "status": 201, "duration_ms": 367}
+{"timestamp": "2026-10-31T09:15:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/43185/pay", "status": 504}
+{"timestamp": "2026-10-31T09:15:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40985", "status": 201, "duration_ms": 243}
+{"timestamp": "2026-10-31T09:15:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29966ms"}
+{"timestamp": "2026-10-31T09:15:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46321", "status": 201, "duration_ms": 77}
+{"timestamp": "2026-10-31T09:15:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45656/pay", "status": 502}
+{"timestamp": "2026-10-31T09:15:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47414", "status": 201, "duration_ms": 363}
+{"timestamp": "2026-10-31T09:15:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/47431/pay", "status": 502}
+{"timestamp": "2026-10-31T09:15:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47752", "status": 201, "duration_ms": 74}
+{"timestamp": "2026-10-31T09:15:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47747", "status": 201, "duration_ms": 83}
+{"timestamp": "2026-10-31T09:15:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48192/pay", "status": 502}
+{"timestamp": "2026-10-31T09:15:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44825", "status": 201, "duration_ms": 358}
+{"timestamp": "2026-10-31T09:15:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41093/pay", "status": 502}
+{"timestamp": "2026-10-31T09:15:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29907ms"}
+{"timestamp": "2026-10-31T09:15:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47735", "status": 201, "duration_ms": 291}
+{"timestamp": "2026-10-31T09:15:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44784", "status": 201, "duration_ms": 120}
+{"timestamp": "2026-10-31T09:15:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/45358/pay", "status": 504}
+{"timestamp": "2026-10-31T09:15:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48311", "status": 201, "duration_ms": 236}
+-- log rotated --
+{"timestamp": "2026-10-31T09:15:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/44139/pay", "status": 502}
+{"timestamp": "2026-10-31T09:15:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45532", "status": 201, "duration_ms": 395}
+{"timestamp": "2026-10-31T09:16:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44524", "status": 201, "duration_ms": 188}
+{"timestamp": "2026-10-31T09:16:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43714/pay", "status": 502}
+{"timestamp": "2026-10-31T09:16:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29922ms"}
+{"timestamp": "2026-10-31T09:16:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46571", "status": 201, "duration_ms": 346}
+{"timestamp": "2026-10-31T09:16:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/48296/pay", "status": 504}
+{"timestamp": "2026-10-31T09:16:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48269", "status": 201, "duration_ms": 276}
+{"timestamp": "2026-10-31T09:16:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40534", "status": 201, "duration_ms": 260}
+{"timestamp": "2026-10-31T09:16:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/40204/pay", "status": 502}
+{"timestamp": "2026-10-31T09:16:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43994", "status": 201, "duration_ms": 392}
+{"timestamp": "2026-10-31T09:16:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/40278/pay", "status": 504}
+{"timestamp": "2026-10-31T09:16:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45889", "status": 201, "duration_ms": 208}
+{"timestamp": "2026-10-31T09:16:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30083ms"}
+{"timestamp": "2026-10-31T09:16:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48339", "status": 201, "duration_ms": 170}
+{"timestamp": "2026-10-31T09:16:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/48306/pay", "status": 504}
+{"timestamp": "2026-10-31T09:16:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46380", "status": 201, "duration_ms": 123}
+{"timestamp": "2026-10-31T09:16:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48116/pay", "status": 502}
+{"timestamp": "2026-10-31T09:16:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40459", "status": 201, "duration_ms": 78}
+{"timestamp": "2026-10-31T09:16:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46498", "status": 201, "duration_ms": 106}
+{"timestamp": "2026-10-31T09:16:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46847/pay", "status": 502}
+{"timestamp": "2026-10-31T09:16:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49364", "status": 201, "duration_ms": 239}
+{"timestamp": "2026-10-31T09:16:40Z", "level": "error", "service": "checkout-api", "message": "payment failed for jane.doe@example.com from 203.0.113.50 api_key=not-a-real-key Authorization: Bearer fake.example.token"}
+{"timestamp": "2026-10-31T09:16:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48564/pay", "status": 502}
+{"timestamp": "2026-10-31T09:16:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29931ms"}
+{"timestamp": "2026-10-31T09:16:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42601", "status": 201, "duration_ms": 291}
+{"timestamp": "2026-10-31T09:16:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47996", "status": 201, "duration_ms": 54}
+{"timestamp": "2026-10-31T09:16:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/40065/pay", "status": 504}
+{"timestamp": "2026-10-31T09:16:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47677", "status": 201, "duration_ms": 354}
+{"timestamp": "2026-10-31T09:16:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/44810/pay", "status": 504}
+{"timestamp": "2026-10-31T09:16:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48883", "status": 201, "duration_ms": 313}
+{"timestamp": "2026-10-31T09:17:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44454", "status": 201, "duration_ms": 343}
+{"timestamp": "2026-10-31T09:17:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48285/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30031ms"}
+{"timestamp": "2026-10-31T09:17:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40993", "status": 201, "duration_ms": 237}
+{"timestamp": "2026-10-31T09:17:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41494/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45627", "status": 201, "duration_ms": 109}
+{"timestamp": "2026-10-31T09:17:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42072", "status": 201, "duration_ms": 170}
+{"timestamp": "2026-10-31T09:17:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41477/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49050", "status": 201, "duration_ms": 226}
+{"timestamp": "2026-10-31T09:17:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/44446/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49992", "status": 201, "duration_ms": 140}
+{"timestamp": "2026-10-31T09:17:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30025ms"}
+{"timestamp": "2026-10-31T09:17:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46170", "status": 201, "duration_ms": 384}
+{"timestamp": "2026-10-31T09:17:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/42895/pay", "status": 504}
+{"timestamp": "2026-10-31T09:17:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42176", "status": 201, "duration_ms": 65}
+{"timestamp": "2026-10-31T09:17:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/47696/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44164", "status": 201, "duration_ms": 272}
+{"timestamp": "2026-10-31T09:17:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49726", "status": 201, "duration_ms": 191}
+{"timestamp": "2026-10-31T09:17:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/42420/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40731", "status": 201, "duration_ms": 315}
+{"timestamp": "2026-10-31T09:17:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/44037/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29925ms"}
+{"timestamp": "2026-10-31T09:17:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46459", "status": 201, "duration_ms": 96}
+{"timestamp": "2026-10-31T09:17:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46994", "status": 201, "duration_ms": 171}
+{"timestamp": "2026-10-31T09:17:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43220/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48670", "status": 201, "duration_ms": 68}
+{"timestamp": "2026-10-31T09:17:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41104/pay", "status": 502}
+{"timestamp": "2026-10-31T09:17:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44354", "status": 201, "duration_ms": 58}
+{"timestamp": "2026-10-31T09:18:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41458", "status": 201, "duration_ms": 58}
+{"timestamp": "2026-10-31T09:18:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41079/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30090ms"}
+{"timestamp": "2026-10-31T09:18:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43367", "status": 201, "duration_ms": 387}
+{"timestamp": "2026-10-31T09:18:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48036/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43992", "status": 201, "duration_ms": 134}
+{"timestamp": "2026-10-31T09:18:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46748", "status": 201, "duration_ms": 305}
+{"timestamp": "2026-10-31T09:18:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/49167/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46152", "status": 201, "duration_ms": 256}
+{"timestamp": "2026-10-31T09:18:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46125/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44974", "status": 201, "duration_ms": 48}
+{"timestamp": "2026-10-31T09:18:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29915ms"}
+{"timestamp": "2026-10-31T09:18:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42273", "status": 201, "duration_ms": 211}
+{"timestamp": "2026-10-31T09:18:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/40542/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41263", "status": 201, "duration_ms": 257}
+{"timestamp": "2026-10-31T09:18:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41661/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45436", "status": 201, "duration_ms": 247}
+{"timestamp": "2026-10-31T09:18:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49307", "status": 201, "duration_ms": 250}
+{"timestamp": "2026-10-31T09:18:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43354/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46035", "status": 201, "duration_ms": 214}
+{"timestamp": "2026-10-31T09:18:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/40040/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29921ms"}
+{"timestamp": "2026-10-31T09:18:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49504", "status": 201, "duration_ms": 303}
+{"timestamp": "2026-10-31T09:18:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41328", "status": 201, "duration_ms": 143}
+{"timestamp": "2026-10-31T09:18:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45912/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46198", "status": 201, "duration_ms": 255}
+{"timestamp": "2026-10-31T09:18:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46669/pay", "status": 502}
+{"timestamp": "2026-10-31T09:18:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45284", "status": 201, "duration_ms": 258}
+{"timestamp": "2026-10-31T09:19:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48869", "status": 201, "duration_ms": 146}
+{"timestamp": "2026-10-31T09:19:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/47459/pay", "status": 504}
+{"timestamp": "2026-10-31T09:19:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30070ms"}
+{"timestamp": "2026-10-31T09:19:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47180", "status": 201, "duration_ms": 380}
+{"timestamp": "2026-10-31T09:19:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45419/pay", "status": 502}
+{"timestamp": "2026-10-31T09:19:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41620", "status": 201, "duration_ms": 390}
+{"timestamp": "2026-10-31T09:19:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48101", "status": 201, "duration_ms": 107}
+{"timestamp": "2026-10-31T09:19:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/46499/pay", "status": 504}
+{"timestamp": "2026-10-31T09:19:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42570", "status": 201, "duration_ms": 145}
+{"timestamp": "2026-10-31T09:19:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46019/pay", "status": 502}
+{"timestamp": "2026-10-31T09:19:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47609", "status": 201, "duration_ms": 215}
+{"timestamp": "2026-10-31T09:19:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29992ms"}
+{"timestamp": "2026-10-31T09:19:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46858", "status": 201, "duration_ms": 362}
+{"timestamp": "2026-10-31T09:19:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41698/pay", "status": 502}
+{"timestamp": "2026-10-31T09:19:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40906", "status": 201, "duration_ms": 43}
+{"timestamp": "2026-10-31T09:19:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/47034/pay", "status": 504}
+{"timestamp": "2026-10-31T09:19:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40294", "status": 201, "duration_ms": 130}
+{"timestamp": "2026-10-31T09:19:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48261", "status": 201, "duration_ms": 362}
+{"timestamp": "2026-10-31T09:19:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46958/pay", "status": 502}
+{"timestamp": "2026-10-31T09:19:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45639", "status": 201, "duration_ms": 88}
+{"timestamp": "2026-10-31T09:19:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/47803/pay", "status": 502}
+{"timestamp": "2026-10-31T09:19:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30096ms"}
+{"timestamp": "2026-10-31T09:19:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42283", "status": 201, "duration_ms": 189}
+{"timestamp": "2026-10-31T09:19:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46913", "status": 201, "duration_ms": 345}
+{"timestamp": "2026-10-31T09:19:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/47272/pay", "status": 502}
+{"timestamp": "2026-10-31T09:19:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45822", "status": 201, "duration_ms": 82}
+{"timestamp": "2026-10-31T09:19:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43690/pay", "status": 502}
+{"timestamp": "2026-10-31T09:19:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43293", "status": 201, "duration_ms": 371}
+{"timestamp": "2026-10-31T09:20:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43519", "status": 201, "duration_ms": 372}
+{"timestamp": "2026-10-31T09:20:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/45546/pay", "status": 504}
+{"timestamp": "2026-10-31T09:20:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29981ms"}
+{"timestamp": "2026-10-31T09:20:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42660", "status": 201, "duration_ms": 227}
+{"timestamp": "2026-10-31T09:20:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46167/pay", "status": 502}
+{"timestamp": "2026-10-31T09:20:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46872", "status": 201, "duration_ms": 276}
+{"timestamp": "2026-10-31T09:20:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42683", "status": 201, "duration_ms": 124}
+{"timestamp": "2026-10-31T09:20:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45588/pay", "status": 502}
+{"timestamp": "2026-10-31T09:20:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43767", "status": 201, "duration_ms": 354}
+{"timestamp": "2026-10-31T09:20:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/49752/pay", "status": 502}
+{"timestamp": "2026-10-31T09:20:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48496", "status": 201, "duration_ms": 90}
+{"timestamp": "2026-10-31T09:20:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30007ms"}
+{"timestamp": "2026-10-31T09:20:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44758", "status": 201, "duration_ms": 203}
+{"timestamp": "2026-10-31T09:20:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45192/pay", "status": 502}
+{"timestamp": "2026-10-31T09:20:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41607", "status": 201, "duration_ms": 333}
+{"timestamp": "2026-10-31T09:20:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/40919/pay", "status": 502}
+{"timestamp": "2026-10-31T09:20:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41892", "status": 201, "duration_ms": 323}
+{"timestamp": "2026-10-31T09:20:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43332", "status": 201, "duration_ms": 338}
+{"timestamp": "2026-10-31T09:20:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46441/pay", "status": 502}
+{"timestamp": "2026-10-31T09:20:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45124", "status": 201, "duration_ms": 209}
+{"timestamp": "2026-10-31T09:20:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/49546/pay", "status": 504}
+{"timestamp": "2026-10-31T09:20:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29963ms"}
+{"timestamp": "2026-10-31T09:20:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44938", "status": 201, "duration_ms": 302}
+{"timestamp": "2026-10-31T09:20:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40111", "status": 201, "duration_ms": 193}
+{"timestamp": "2026-10-31T09:20:11Z", "level": "err
+{"timestamp": "2026-10-31T09:20:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/47126/pay", "status": 504}
+{"timestamp": "2026-10-31T09:20:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41728", "status": 201, "duration_ms": 335}
+{"timestamp": "2026-10-31T09:20:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/40339/pay", "status": 502}
+{"timestamp": "2026-10-31T09:20:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42878", "status": 201, "duration_ms": 58}
+{"timestamp": "2026-10-31T09:21:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49883", "status": 201, "duration_ms": 70}
+{"timestamp": "2026-10-31T09:21:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/44966/pay", "status": 504}
+{"timestamp": "2026-10-31T09:21:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29937ms"}
+{"timestamp": "2026-10-31T09:21:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45896", "status": 201, "duration_ms": 85}
+{"timestamp": "2026-10-31T09:21:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48449/pay", "status": 502}
+{"timestamp": "2026-10-31T09:21:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49484", "status": 201, "duration_ms": 70}
+{"timestamp": "2026-10-31T09:21:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43803", "status": 201, "duration_ms": 247}
+{"timestamp": "2026-10-31T09:21:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/44973/pay", "status": 502}
+{"timestamp": "2026-10-31T09:21:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47944", "status": 201, "duration_ms": 263}
+{"timestamp": "2026-10-31T09:21:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/48802/pay", "status": 502}
+{"timestamp": "2026-10-31T09:21:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48210", "status": 201, "duration_ms": 42}
+{"timestamp": "2026-10-31T09:21:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29931ms"}
+{"timestamp": "2026-10-31T09:21:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40557", "status": 201, "duration_ms": 51}
+{"timestamp": "2026-10-31T09:21:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/44965/pay", "status": 504}
+{"timestamp": "2026-10-31T09:21:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49713", "status": 201, "duration_ms": 284}
+{"timestamp": "2026-10-31T09:21:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/40248/pay", "status": 502}
+{"timestamp": "2026-10-31T09:21:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40446", "status": 201, "duration_ms": 94}
+{"timestamp": "2026-10-31T09:21:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49750", "status": 201, "duration_ms": 194}
+{"timestamp": "2026-10-31T09:21:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41700/pay", "status": 502}
+{"timestamp": "2026-10-31T09:21:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44906", "status": 201, "duration_ms": 167}
+{"timestamp": "2026-10-31T09:21:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/48979/pay", "status": 504}
+{"timestamp": "2026-10-31T09:21:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29978ms"}
+{"timestamp": "2026-10-31T09:21:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41357", "status": 201, "duration_ms": 68}
+{"timestamp": "2026-10-31T09:21:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44380", "status": 201, "duration_ms": 92}
+{"timestamp": "2026-10-31T09:21:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43626/pay", "status": 502}
+{"timestamp": "2026-10-31T09:21:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43336", "status": 201, "duration_ms": 50}
+{"timestamp": "2026-10-31T09:21:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/47513/pay", "status": 502}
+{"timestamp": "2026-10-31T09:21:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48928", "status": 201, "duration_ms": 343}
+{"timestamp": "2026-10-31T09:22:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46956", "status": 201, "duration_ms": 53}
+{"timestamp": "2026-10-31T09:22:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/44997/pay", "status": 504}
+{"timestamp": "2026-10-31T09:22:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30088ms"}
+{"timestamp": "2026-10-31T09:22:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47013", "status": 201, "duration_ms": 377}
+{"timestamp": "2026-10-31T09:22:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46555/pay", "status": 502}
+{"timestamp": "2026-10-31T09:22:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41102", "status": 201, "duration_ms": 135}
+{"timestamp": "2026-10-31T09:22:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42783", "status": 201, "duration_ms": 328}
+{"timestamp": "2026-10-31T09:22:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43613/pay", "status": 502}
+{"timestamp": "2026-10-31T09:22:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49314", "status": 201, "duration_ms": 312}
+{"timestamp": "2026-10-31T09:22:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/43496/pay", "status": 504}
+{"timestamp": "2026-10-31T09:22:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44336", "status": 201, "duration_ms": 345}
+{"timestamp": "2026-10-31T09:22:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29948ms"}
+{"timestamp": "2026-10-31T09:22:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48407", "status": 201, "duration_ms": 138}
+{"timestamp": "2026-10-31T09:22:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/47400/pay", "status": 502}
+{"timestamp": "2026-10-31T09:22:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44928", "status": 201, "duration_ms": 115}
+{"timestamp": "2026-10-31T09:22:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/49907/pay", "status": 502}
+{"timestamp": "2026-10-31T09:22:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40727", "status": 201, "duration_ms": 69}
+{"timestamp": "2026-10-31T09:22:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44540", "status": 201, "duration_ms": 58}
+{"timestamp": "2026-10-31T09:22:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/42902/pay", "status": 502}
+{"timestamp": "2026-10-31T09:22:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42231", "status": 201, "duration_ms": 229}
+{"timestamp": "2026-10-31T09:22:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46769/pay", "status": 502}
+{"timestamp": "2026-10-31T09:22:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29923ms"}
+{"timestamp": "2026-10-31T09:22:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40492", "status": 201, "duration_ms": 234}
+{"timestamp": "2026-10-31T09:22:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46564", "status": 201, "duration_ms": 397}
+{"timestamp": "2026-10-31T09:22:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46890/pay", "status": 502}
+{"timestamp": "2026-10-31T09:22:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46392", "status": 201, "duration_ms": 220}
+{"timestamp": "2026-10-31T09:22:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43005/pay", "status": 502}
+{"timestamp": "2026-10-31T09:22:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47026", "status": 201, "duration_ms": 66}
+{"timestamp": "2026-10-31T09:23:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41210", "status": 201, "duration_ms": 376}
+{"timestamp": "2026-10-31T09:23:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/43280/pay", "status": 504}
+{"timestamp": "2026-10-31T09:23:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30019ms"}
+{"timestamp": "2026-10-31T09:23:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47830", "status": 201, "duration_ms": 373}
+{"timestamp": "2026-10-31T09:23:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/47258/pay", "status": 504}
+{"timestamp": "2026-10-31T09:23:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45720", "status": 201, "duration_ms": 123}
+{"timestamp": "2026-10-31T09:23:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48401", "status": 201, "duration_ms": 95}
+{"timestamp": "2026-10-31T09:23:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46988/pay", "status": 502}
+{"timestamp": "2026-10-31T09:23:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42160", "status": 201, "duration_ms": 206}
+{"timestamp": "2026-10-31T09:23:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43708/pay", "status": 502}
+{"timestamp": "2026-10-31T09:23:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40259", "status": 201, "duration_ms": 178}
+{"timestamp": "2026-10-31T09:23:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29973ms"}
+{"timestamp": "2026-10-31T09:23:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44835", "status": 201, "duration_ms": 220}
+{"timestamp": "2026-10-31T09:23:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/49528/pay", "status": 502}
+{"timestamp": "2026-10-31T09:23:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43916", "status": 201, "duration_ms": 68}
+{"timestamp": "2026-10-31T09:23:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/49429/pay", "status": 504}
+{"timestamp": "2026-10-31T09:23:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46888", "status": 201, "duration_ms": 136}
+{"timestamp": "2026-10-31T09:23:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43644", "status": 201, "duration_ms": 368}
+{"timestamp": "2026-10-31T09:23:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/49863/pay", "status": 504}
+{"timestamp": "2026-10-31T09:23:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48247", "status": 201, "duration_ms": 217}
+{"timestamp": "2026-10-31T09:23:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/45530/pay", "status": 502}
+{"timestamp": "2026-10-31T09:23:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 30062ms"}
+{"timestamp": "2026-10-31T09:23:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46230", "status": 201, "duration_ms": 304}
+{"timestamp": "2026-10-31T09:23:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46546", "status": 201, "duration_ms": 315}
+{"timestamp": "2026-10-31T09:23:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46815/pay", "status": 502}
+{"timestamp": "2026-10-31T09:23:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41235", "status": 201, "duration_ms": 332}
+{"timestamp": "2026-10-31T09:23:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/41424/pay", "status": 502}
+{"timestamp": "2026-10-31T09:23:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40355", "status": 201, "duration_ms": 207}
+{"timestamp": "2026-10-31T09:24:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45048", "status": 201, "duration_ms": 142}
+{"timestamp": "2026-10-31T09:24:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/49378/pay", "status": 504}
+{"timestamp": "2026-10-31T09:24:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29992ms"}
+{"timestamp": "2026-10-31T09:24:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47096", "status": 201, "duration_ms": 339}
+{"timestamp": "2026-10-31T09:24:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46718/pay", "status": 502}
+{"timestamp": "2026-10-31T09:24:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45942", "status": 201, "duration_ms": 382}
+{"timestamp": "2026-10-31T09:24:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45631", "status": 201, "duration_ms": 339}
+{"timestamp": "2026-10-31T09:24:12Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/42069/pay", "status": 502}
+{"timestamp": "2026-10-31T09:24:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40621", "status": 201, "duration_ms": 208}
+{"timestamp": "2026-10-31T09:24:18Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/43658/pay", "status": 502}
+{"timestamp": "2026-10-31T09:24:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42920", "status": 201, "duration_ms": 69}
+{"timestamp": "2026-10-31T09:24:23Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29984ms"}
+{"timestamp": "2026-10-31T09:24:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41423", "status": 201, "duration_ms": 117}
+{"timestamp": "2026-10-31T09:24:24Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/46818/pay", "status": 502}
+{"timestamp": "2026-10-31T09:24:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47230", "status": 201, "duration_ms": 154}
+{"timestamp": "2026-10-31T09:24:30Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/42148/pay", "status": 502}
+{"timestamp": "2026-10-31T09:24:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41192", "status": 201, "duration_ms": 69}
+{"timestamp": "2026-10-31T09:24:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48458", "status": 201, "duration_ms": 169}
+{"timestamp": "2026-10-31T09:24:36Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/44213/pay", "status": 502}
+{"timestamp": "2026-10-31T09:24:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45746", "status": 201, "duration_ms": 358}
+{"timestamp": "2026-10-31T09:24:42Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/48248/pay", "status": 504}
+{"timestamp": "2026-10-31T09:24:43Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29948ms"}
+{"timestamp": "2026-10-31T09:24:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49507", "status": 201, "duration_ms": 284}
+{"timestamp": "2026-10-31T09:24:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40281", "status": 201, "duration_ms": 77}
+{"timestamp": "2026-10-31T09:24:48Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "path": "/orders/44871/pay", "status": 504}
+{"timestamp": "2026-10-31T09:24:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45137", "status": 201, "duration_ms": 212}
+{"timestamp": "2026-10-31T09:24:54Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "path": "/orders/49420/pay", "status": 502}
+{"timestamp": "2026-10-31T09:24:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42302", "status": 201, "duration_ms": 185}
+{"timestamp": "2026-10-31T09:25:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44051", "status": 201, "duration_ms": 53}
+{"timestamp": "2026-10-31T09:25:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43731", "status": 201, "duration_ms": 144}
+{"timestamp": "2026-10-31T09:25:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42296", "status": 201, "duration_ms": 361}
+{"timestamp": "2026-10-31T09:25:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41315", "status": 201, "duration_ms": 286}
+{"timestamp": "2026-10-31T09:25:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46348", "status": 201, "duration_ms": 128}
+{"timestamp": "2026-10-31T09:25:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42493", "status": 201, "duration_ms": 250}
+{"timestamp": "2026-10-31T09:25:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45637", "status": 201, "duration_ms": 246}
+{"timestamp": "2026-10-31T09:25:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49582", "status": 201, "duration_ms": 196}
+{"timestamp": "2026-10-31T09:25:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42728", "status": 201, "duration_ms": 143}
+{"timestamp": "2026-10-31T09:25:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40217", "status": 201, "duration_ms": 186}
+{"timestamp": "2026-10-31T09:25:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45733", "status": 201, "duration_ms": 399}
+{"timestamp": "2026-10-31T09:25:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49300", "status": 201, "duration_ms": 210}
+{"timestamp": "2026-10-31T09:25:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44162", "status": 201, "duration_ms": 360}
+{"timestamp": "2026-10-31T09:25:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45729", "status": 201, "duration_ms": 46}
+{"timestamp": "2026-10-31T09:25:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42681", "status": 201, "duration_ms": 241}
+{"timestamp": "2026-10-31T09:26:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40877", "status": 201, "duration_ms": 60}
+{"timestamp": "2026-10-31T09:26:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46166", "status": 201, "duration_ms": 115}
+{"timestamp": "2026-10-31T09:26:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43194", "status": 201, "duration_ms": 400}
+{"timestamp": "2026-10-31T09:26:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41823", "status": 201, "duration_ms": 358}
+{"timestamp": "2026-10-31T09:26:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48119", "status": 201, "duration_ms": 314}
+{"timestamp": "2026-10-31T09:26:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40967", "status": 201, "duration_ms": 264}
+{"timestamp": "2026-10-31T09:26:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42127", "status": 201, "duration_ms": 307}
+{"timestamp": "2026-10-31T09:26:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46468", "status": 201, "duration_ms": 130}
+{"timestamp": "2026-10-31T09:26:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47200", "status": 201, "duration_ms": 166}
+{"timestamp": "2026-10-31T09:26:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40676", "status": 201, "duration_ms": 200}
+{"timestamp": "2026-10-31T09:26:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49768", "status": 201, "duration_ms": 256}
+{"timestamp": "2026-10-31T09:26:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43773", "status": 201, "duration_ms": 295}
+{"timestamp": "2026-10-31T09:26:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42192", "status": 201, "duration_ms": 139}
+{"timestamp": "2026-10-31T09:26:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43782", "status": 201, "duration_ms": 202}
+{"timestamp": "2026-10-31T09:26:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40058", "status": 201, "duration_ms": 57}
+{"timestamp": "2026-10-31T09:27:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43049", "status": 201, "duration_ms": 116}
+{"timestamp": "2026-10-31T09:27:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46400", "status": 201, "duration_ms": 395}
+{"timestamp": "2026-10-31T09:27:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46630", "status": 201, "duration_ms": 77}
+{"timestamp": "2026-10-31T09:27:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41901", "status": 201, "duration_ms": 105}
+{"timestamp": "2026-10-31T09:27:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41101", "status": 201, "duration_ms": 268}
+{"timestamp": "2026-10-31T09:27:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43027", "status": 201, "duration_ms": 255}
+{"timestamp": "2026-10-31T09:27:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46685", "status": 201, "duration_ms": 175}
+{"timestamp": "2026-10-31T09:27:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49258", "status": 201, "duration_ms": 278}
+{"timestamp": "2026-10-31T09:27:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40790", "status": 201, "duration_ms": 213}
+{"timestamp": "2026-10-31T09:27:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47487", "status": 201, "duration_ms": 134}
+{"timestamp": "2026-10-31T09:27:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41703", "status": 201, "duration_ms": 117}
+{"timestamp": "2026-10-31T09:27:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41455", "status": 201, "duration_ms": 232}
+{"timestamp": "2026-10-31T09:27:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44133", "status": 201, "duration_ms": 127}
+{"timestamp": "2026-10-31T09:27:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47092", "status": 201, "duration_ms": 102}
+{"timestamp": "2026-10-31T09:27:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44731", "status": 201, "duration_ms": 150}
+{"timestamp": "2026-10-31T09:28:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45632", "status": 201, "duration_ms": 138}
+{"timestamp": "2026-10-31T09:28:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47265", "status": 201, "duration_ms": 89}
+{"timestamp": "2026-10-31T09:28:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44609", "status": 201, "duration_ms": 229}
+{"timestamp": "2026-10-31T09:28:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40438", "status": 201, "duration_ms": 298}
+{"timestamp": "2026-10-31T09:28:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47806", "status": 201, "duration_ms": 387}
+{"timestamp": "2026-10-31T09:28:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46384", "status": 201, "duration_ms": 364}
+{"timestamp": "2026-10-31T09:28:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40225", "status": 201, "duration_ms": 367}
+{"timestamp": "2026-10-31T09:28:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49931", "status": 201, "duration_ms": 88}
+{"timestamp": "2026-10-31T09:28:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44992", "status": 201, "duration_ms": 171}
+{"timestamp": "2026-10-31T09:28:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43656", "status": 201, "duration_ms": 362}
+{"timestamp": "2026-10-31T09:28:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44705", "status": 201, "duration_ms": 171}
+{"timestamp": "2026-10-31T09:28:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42658", "status": 201, "duration_ms": 313}
+{"timestamp": "2026-10-31T09:28:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42562", "status": 201, "duration_ms": 81}
+{"timestamp": "2026-10-31T09:28:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47802", "status": 201, "duration_ms": 148}
+{"timestamp": "2026-10-31T09:28:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45981", "status": 201, "duration_ms": 327}
+{"timestamp": "2026-10-31T09:29:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41216", "status": 201, "duration_ms": 382}
+{"timestamp": "2026-10-31T09:29:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48065", "status": 201, "duration_ms": 189}
+{"timestamp": "2026-10-31T09:29:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45884", "status": 201, "duration_ms": 131}
+{"timestamp": "2026-10-31T09:29:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40333", "status": 201, "duration_ms": 189}
+{"timestamp": "2026-10-31T09:29:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40268", "status": 201, "duration_ms": 309}
+{"timestamp": "2026-10-31T09:29:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44942", "status": 201, "duration_ms": 304}
+{"timestamp": "2026-10-31T09:29:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49340", "status": 201, "duration_ms": 268}
+{"timestamp": "2026-10-31T09:29:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46488", "status": 201, "duration_ms": 158}
+{"timestamp": "2026-10-31T09:29:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49514", "status": 201, "duration_ms": 154}
+{"timestamp": "2026-10-31T09:29:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46619", "status": 201, "duration_ms": 266}
+{"timestamp": "2026-10-31T09:29:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43921", "status": 201, "duration_ms": 202}
+{"timestamp": "2026-10-31T09:29:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42392", "status": 201, "duration_ms": 346}
+{"timestamp": "2026-10-31T09:29:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42864", "status": 201, "duration_ms": 107}
+{"timestamp": "2026-10-31T09:29:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45444", "status": 201, "duration_ms": 255}
+{"timestamp": "2026-10-31T09:29:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48775", "status": 201, "duration_ms": 88}
+{"timestamp": "2026-10-31T09:30:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47690", "status": 201, "duration_ms": 192}
+{"timestamp": "2026-10-31T09:30:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42871", "status": 201, "duration_ms": 108}
+{"timestamp": "2026-10-31T09:30:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49760", "status": 201, "duration_ms": 353}
+{"timestamp": "2026-10-31T09:30:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42970", "status": 201, "duration_ms": 223}
+{"timestamp": "2026-10-31T09:30:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46642", "status": 201, "duration_ms": 118}
+{"timestamp": "2026-10-31T09:30:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44549", "status": 201, "duration_ms": 388}
+{"timestamp": "2026-10-31T09:30:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41241", "status": 201, "duration_ms": 360}
+{"timestamp": "2026-10-31T09:30:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46207", "status": 201, "duration_ms": 171}
+{"timestamp": "2026-10-31T09:30:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41093", "status": 201, "duration_ms": 222}
+{"timestamp": "2026-10-31T09:30:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45032", "status": 201, "duration_ms": 223}
+{"timestamp": "2026-10-31T09:30:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42760", "status": 201, "duration_ms": 209}
+{"timestamp": "2026-10-31T09:30:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41819", "status": 201, "duration_ms": 228}
+{"timestamp": "2026-10-31T09:30:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40710", "status": 201, "duration_ms": 51}
+{"timestamp": "2026-10-31T09:30:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49039", "status": 201, "duration_ms": 51}
+{"timestamp": "2026-10-31T09:30:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40555", "status": 201, "duration_ms": 63}
+{"timestamp": "2026-10-31T09:31:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46524", "status": 201, "duration_ms": 203}
+{"timestamp": "2026-10-31T09:31:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43378", "status": 201, "duration_ms": 398}
+{"timestamp": "2026-10-31T09:31:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44281", "status": 201, "duration_ms": 69}
+{"timestamp": "2026-10-31T09:31:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42393", "status": 201, "duration_ms": 307}
+{"timestamp": "2026-10-31T09:31:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42266", "status": 201, "duration_ms": 45}
+{"timestamp": "2026-10-31T09:31:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43836", "status": 201, "duration_ms": 205}
+{"timestamp": "2026-10-31T09:31:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48650", "status": 201, "duration_ms": 236}
+{"timestamp": "2026-10-31T09:31:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45382", "status": 201, "duration_ms": 242}
+{"timestamp": "2026-10-31T09:31:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44078", "status": 201, "duration_ms": 161}
+{"timestamp": "2026-10-31T09:31:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42928", "status": 201, "duration_ms": 254}
+{"timestamp": "2026-10-31T09:31:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44302", "status": 201, "duration_ms": 198}
+{"timestamp": "2026-10-31T09:31:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41153", "status": 201, "duration_ms": 102}
+{"timestamp": "2026-10-31T09:31:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44842", "status": 201, "duration_ms": 67}
+{"timestamp": "2026-10-31T09:31:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42049", "status": 201, "duration_ms": 178}
+{"timestamp": "2026-10-31T09:31:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46435", "status": 201, "duration_ms": 158}
+{"timestamp": "2026-10-31T09:32:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48837", "status": 201, "duration_ms": 204}
+{"timestamp": "2026-10-31T09:32:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48406", "status": 201, "duration_ms": 396}
+{"timestamp": "2026-10-31T09:32:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42588", "status": 201, "duration_ms": 95}
+{"timestamp": "2026-10-31T09:32:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43960", "status": 201, "duration_ms": 361}
+{"timestamp": "2026-10-31T09:32:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46066", "status": 201, "duration_ms": 167}
+{"timestamp": "2026-10-31T09:32:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40563", "status": 201, "duration_ms": 229}
+{"timestamp": "2026-10-31T09:32:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48646", "status": 201, "duration_ms": 325}
+{"timestamp": "2026-10-31T09:32:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46284", "status": 201, "duration_ms": 400}
+{"timestamp": "2026-10-31T09:32:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48735", "status": 201, "duration_ms": 321}
+{"timestamp": "2026-10-31T09:32:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43625", "status": 201, "duration_ms": 82}
+{"timestamp": "2026-10-31T09:32:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40503", "status": 201, "duration_ms": 298}
+{"timestamp": "2026-10-31T09:32:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49001", "status": 201, "duration_ms": 188}
+{"timestamp": "2026-10-31T09:32:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41164", "status": 201, "duration_ms": 95}
+{"timestamp": "2026-10-31T09:32:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46967", "status": 201, "duration_ms": 43}
+{"timestamp": "2026-10-31T09:32:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45894", "status": 201, "duration_ms": 238}
+{"timestamp": "2026-10-31T09:33:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45705", "status": 201, "duration_ms": 378}
+{"timestamp": "2026-10-31T09:33:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49951", "status": 201, "duration_ms": 82}
+{"timestamp": "2026-10-31T09:33:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40789", "status": 201, "duration_ms": 187}
+{"timestamp": "2026-10-31T09:33:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47401", "status": 201, "duration_ms": 307}
+{"timestamp": "2026-10-31T09:33:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41884", "status": 201, "duration_ms": 369}
+{"timestamp": "2026-10-31T09:33:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40058", "status": 201, "duration_ms": 42}
+{"timestamp": "2026-10-31T09:33:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40389", "status": 201, "duration_ms": 251}
+{"timestamp": "2026-10-31T09:33:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41007", "status": 201, "duration_ms": 384}
+{"timestamp": "2026-10-31T09:33:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46285", "status": 201, "duration_ms": 257}
+{"timestamp": "2026-10-31T09:33:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41121", "status": 201, "duration_ms": 112}
+{"timestamp": "2026-10-31T09:33:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46908", "status": 201, "duration_ms": 50}
+{"timestamp": "2026-10-31T09:33:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48716", "status": 201, "duration_ms": 232}
+{"timestamp": "2026-10-31T09:33:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42195", "status": 201, "duration_ms": 137}
+{"timestamp": "2026-10-31T09:33:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44380", "status": 201, "duration_ms": 287}
+{"timestamp": "2026-10-31T09:33:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48510", "status": 201, "duration_ms": 220}
+{"timestamp": "2026-10-31T09:34:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46788", "status": 201, "duration_ms": 393}
+{"timestamp": "2026-10-31T09:34:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43982", "status": 201, "duration_ms": 317}
+{"timestamp": "2026-10-31T09:34:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45120", "status": 201, "duration_ms": 219}
+{"timestamp": "2026-10-31T09:34:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48618", "status": 201, "duration_ms": 72}
+{"timestamp": "2026-10-31T09:34:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49437", "status": 201, "duration_ms": 44}
+{"timestamp": "2026-10-31T09:34:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49964", "status": 201, "duration_ms": 87}
+{"timestamp": "2026-10-31T09:34:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43956", "status": 201, "duration_ms": 268}
+{"timestamp": "2026-10-31T09:34:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43922", "status": 201, "duration_ms": 333}
+{"timestamp": "2026-10-31T09:34:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46041", "status": 201, "duration_ms": 332}
+{"timestamp": "2026-10-31T09:34:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43646", "status": 201, "duration_ms": 348}
+{"timestamp": "2026-10-31T09:34:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45453", "status": 201, "duration_ms": 347}
+{"timestamp": "2026-10-31T09:34:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48641", "status": 201, "duration_ms": 378}
+{"timestamp": "2026-10-31T09:34:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46098", "status": 201, "duration_ms": 269}
+{"timestamp": "2026-10-31T09:34:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45853", "status": 201, "duration_ms": 321}
+{"timestamp": "2026-10-31T09:34:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42435", "status": 201, "duration_ms": 198}
+{"timestamp": "2026-10-31T09:35:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45025", "status": 201, "duration_ms": 129}
+{"timestamp": "2026-10-31T09:35:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43731", "status": 201, "duration_ms": 268}
+{"timestamp": "2026-10-31T09:35:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42685", "status": 201, "duration_ms": 174}
+{"timestamp": "2026-10-31T09:35:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44209", "status": 201, "duration_ms": 385}
+{"timestamp": "2026-10-31T09:35:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41273", "status": 201, "duration_ms": 246}
+{"timestamp": "2026-10-31T09:35:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40687", "status": 201, "duration_ms": 395}
+{"timestamp": "2026-10-31T09:35:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48301", "status": 201, "duration_ms": 312}
+{"timestamp": "2026-10-31T09:35:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47266", "status": 201, "duration_ms": 306}
+{"timestamp": "2026-10-31T09:35:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46574", "status": 201, "duration_ms": 297}
+{"timestamp": "2026-10-31T09:35:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48538", "status": 201, "duration_ms": 380}
+{"timestamp": "2026-10-31T09:35:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47261", "status": 201, "duration_ms": 109}
+{"timestamp": "2026-10-31T09:35:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49760", "status": 201, "duration_ms": 234}
+{"timestamp": "2026-10-31T09:35:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40223", "status": 201, "duration_ms": 42}
+{"timestamp": "2026-10-31T09:35:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44348", "status": 201, "duration_ms": 365}
+{"timestamp": "2026-10-31T09:35:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46512", "status": 201, "duration_ms": 128}
+{"timestamp": "2026-10-31T09:36:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43006", "status": 201, "duration_ms": 101}
+{"timestamp": "2026-10-31T09:36:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43441", "status": 201, "duration_ms": 340}
+{"timestamp": "2026-10-31T09:36:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48762", "status": 201, "duration_ms": 273}
+{"timestamp": "2026-10-31T09:36:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45232", "status": 201, "duration_ms": 394}
+{"timestamp": "2026-10-31T09:36:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41433", "status": 201, "duration_ms": 269}
+{"timestamp": "2026-10-31T09:36:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41612", "status": 201, "duration_ms": 63}
+{"timestamp": "2026-10-31T09:36:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47349", "status": 201, "duration_ms": 65}
+{"timestamp": "2026-10-31T09:36:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47641", "status": 201, "duration_ms": 72}
+{"timestamp": "2026-10-31T09:36:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43462", "status": 201, "duration_ms": 267}
+{"timestamp": "2026-10-31T09:36:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49162", "status": 201, "duration_ms": 201}
+{"timestamp": "2026-10-31T09:36:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44185", "status": 201, "duration_ms": 367}
+{"timestamp": "2026-10-31T09:36:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49623", "status": 201, "duration_ms": 156}
+{"timestamp": "2026-10-31T09:36:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47169", "status": 201, "duration_ms": 110}
+{"timestamp": "2026-10-31T09:36:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44797", "status": 201, "duration_ms": 224}
+{"timestamp": "2026-10-31T09:36:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44077", "status": 201, "duration_ms": 75}
+{"timestamp": "2026-10-31T09:37:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45104", "status": 201, "duration_ms": 250}
+{"timestamp": "2026-10-31T09:37:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44666", "status": 201, "duration_ms": 180}
+{"timestamp": "2026-10-31T09:37:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49337", "status": 201, "duration_ms": 202}
+{"timestamp": "2026-10-31T09:37:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44418", "status": 201, "duration_ms": 74}
+{"timestamp": "2026-10-31T09:37:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46451", "status": 201, "duration_ms": 190}
+{"timestamp": "2026-10-31T09:37:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40360", "status": 201, "duration_ms": 66}
+{"timestamp": "2026-10-31T09:37:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42535", "status": 201, "duration_ms": 170}
+{"timestamp": "2026-10-31T09:37:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47747", "status": 201, "duration_ms": 363}
+{"timestamp": "2026-10-31T09:37:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45676", "status": 201, "duration_ms": 163}
+{"timestamp": "2026-10-31T09:37:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42194", "status": 201, "duration_ms": 315}
+{"timestamp": "2026-10-31T09:37:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40383", "status": 201, "duration_ms": 42}
+{"timestamp": "2026-10-31T09:37:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47959", "status": 201, "duration_ms": 120}
+{"timestamp": "2026-10-31T09:37:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46060", "status": 201, "duration_ms": 318}
+{"timestamp": "2026-10-31T09:37:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46730", "status": 201, "duration_ms": 65}
+{"timestamp": "2026-10-31T09:37:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46205", "status": 201, "duration_ms": 367}
+{"timestamp": "2026-10-31T09:38:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45504", "status": 201, "duration_ms": 183}
+{"timestamp": "2026-10-31T09:38:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46888", "status": 201, "duration_ms": 236}
+{"timestamp": "2026-10-31T09:38:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42275", "status": 201, "duration_ms": 86}
+{"timestamp": "2026-10-31T09:38:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48417", "status": 201, "duration_ms": 98}
+{"timestamp": "2026-10-31T09:38:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48785", "status": 201, "duration_ms": 271}
+{"timestamp": "2026-10-31T09:38:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41221", "status": 201, "duration_ms": 88}
+{"timestamp": "2026-10-31T09:38:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43102", "status": 201, "duration_ms": 292}
+{"timestamp": "2026-10-31T09:38:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44241", "status": 201, "duration_ms": 141}
+{"timestamp": "2026-10-31T09:38:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42831", "status": 201, "duration_ms": 160}
+{"timestamp": "2026-10-31T09:38:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48900", "status": 201, "duration_ms": 335}
+{"timestamp": "2026-10-31T09:38:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46329", "status": 201, "duration_ms": 397}
+{"timestamp": "2026-10-31T09:38:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41222", "status": 201, "duration_ms": 181}
+{"timestamp": "2026-10-31T09:38:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42191", "status": 201, "duration_ms": 274}
+{"timestamp": "2026-10-31T09:38:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42861", "status": 201, "duration_ms": 262}
+{"timestamp": "2026-10-31T09:38:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40766", "status": 201, "duration_ms": 305}
+{"timestamp": "2026-10-31T09:39:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42133", "status": 201, "duration_ms": 60}
+{"timestamp": "2026-10-31T09:39:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46121", "status": 201, "duration_ms": 235}
+{"timestamp": "2026-10-31T09:39:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49700", "status": 201, "duration_ms": 359}
+{"timestamp": "2026-10-31T09:39:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48985", "status": 201, "duration_ms": 247}
+{"timestamp": "2026-10-31T09:39:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44517", "status": 201, "duration_ms": 312}
+{"timestamp": "2026-10-31T09:39:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48642", "status": 201, "duration_ms": 229}
+{"timestamp": "2026-10-31T09:39:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44048", "status": 201, "duration_ms": 374}
+{"timestamp": "2026-10-31T09:39:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41085", "status": 201, "duration_ms": 136}
+{"timestamp": "2026-10-31T09:39:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46690", "status": 201, "duration_ms": 58}
+{"timestamp": "2026-10-31T09:39:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48534", "status": 201, "duration_ms": 399}
+{"timestamp": "2026-10-31T09:39:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40023", "status": 201, "duration_ms": 88}
+{"timestamp": "2026-10-31T09:39:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44472", "status": 201, "duration_ms": 392}
+{"timestamp": "2026-10-31T09:39:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43572", "status": 201, "duration_ms": 123}
+{"timestamp": "2026-10-31T09:39:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48706", "status": 201, "duration_ms": 187}
+{"timestamp": "2026-10-31T09:39:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49834", "status": 201, "duration_ms": 150}
+{"timestamp": "2026-10-31T09:40:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48242", "status": 201, "duration_ms": 290}
+{"timestamp": "2026-10-31T09:40:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49428", "status": 201, "duration_ms": 226}
+{"timestamp": "2026-10-31T09:40:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49631", "status": 201, "duration_ms": 209}
+{"timestamp": "2026-10-31T09:40:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45206", "status": 201, "duration_ms": 74}
+{"timestamp": "2026-10-31T09:40:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47306", "status": 201, "duration_ms": 301}
+{"timestamp": "2026-10-31T09:40:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47876", "status": 201, "duration_ms": 60}
+{"timestamp": "2026-10-31T09:40:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47042", "status": 201, "duration_ms": 343}
+{"timestamp": "2026-10-31T09:40:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45202", "status": 201, "duration_ms": 207}
+{"timestamp": "2026-10-31T09:40:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40059", "status": 201, "duration_ms": 295}
+{"timestamp": "2026-10-31T09:40:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48439", "status": 201, "duration_ms": 128}
+{"timestamp": "2026-10-31T09:40:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49055", "status": 201, "duration_ms": 335}
+{"timestamp": "2026-10-31T09:40:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44683", "status": 201, "duration_ms": 348}
+{"timestamp": "2026-10-31T09:40:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40140", "status": 201, "duration_ms": 258}
+{"timestamp": "2026-10-31T09:40:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46776", "status": 201, "duration_ms": 53}
+{"timestamp": "2026-10-31T09:40:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41187", "status": 201, "duration_ms": 235}
+{"timestamp": "2026-10-31T09:41:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42591", "status": 201, "duration_ms": 206}
+{"timestamp": "2026-10-31T09:41:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41663", "status": 201, "duration_ms": 207}
+{"timestamp": "2026-10-31T09:41:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41721", "status": 201, "duration_ms": 155}
+{"timestamp": "2026-10-31T09:41:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43809", "status": 201, "duration_ms": 362}
+{"timestamp": "2026-10-31T09:41:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41711", "status": 201, "duration_ms": 292}
+{"timestamp": "2026-10-31T09:41:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41246", "status": 201, "duration_ms": 247}
+{"timestamp": "2026-10-31T09:41:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47429", "status": 201, "duration_ms": 216}
+{"timestamp": "2026-10-31T09:41:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49907", "status": 201, "duration_ms": 328}
+{"timestamp": "2026-10-31T09:41:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48523", "status": 201, "duration_ms": 81}
+{"timestamp": "2026-10-31T09:41:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42656", "status": 201, "duration_ms": 399}
+{"timestamp": "2026-10-31T09:41:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48583", "status": 201, "duration_ms": 176}
+{"timestamp": "2026-10-31T09:41:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44613", "status": 201, "duration_ms": 223}
+{"timestamp": "2026-10-31T09:41:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49208", "status": 201, "duration_ms": 372}
+{"timestamp": "2026-10-31T09:41:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47655", "status": 201, "duration_ms": 363}
+{"timestamp": "2026-10-31T09:41:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41086", "status": 201, "duration_ms": 122}
+{"timestamp": "2026-10-31T09:42:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45158", "status": 201, "duration_ms": 144}
+{"timestamp": "2026-10-31T09:42:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/48197", "status": 201, "duration_ms": 44}
+{"timestamp": "2026-10-31T09:42:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44883", "status": 201, "duration_ms": 106}
+{"timestamp": "2026-10-31T09:42:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49160", "status": 201, "duration_ms": 194}
+{"timestamp": "2026-10-31T09:42:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47200", "status": 201, "duration_ms": 100}
+{"timestamp": "2026-10-31T09:42:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45134", "status": 201, "duration_ms": 236}
+{"timestamp": "2026-10-31T09:42:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40119", "status": 201, "duration_ms": 149}
+{"timestamp": "2026-10-31T09:42:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49802", "status": 201, "duration_ms": 356}
+{"timestamp": "2026-10-31T09:42:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44573", "status": 201, "duration_ms": 195}
+{"timestamp": "2026-10-31T09:42:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47853", "status": 201, "duration_ms": 332}
+{"timestamp": "2026-10-31T09:42:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42136", "status": 201, "duration_ms": 50}
+{"timestamp": "2026-10-31T09:42:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41168", "status": 201, "duration_ms": 183}
+{"timestamp": "2026-10-31T09:42:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46452", "status": 201, "duration_ms": 78}
+{"timestamp": "2026-10-31T09:42:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41321", "status": 201, "duration_ms": 178}
+{"timestamp": "2026-10-31T09:42:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43228", "status": 201, "duration_ms": 74}
+{"timestamp": "2026-10-31T09:43:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44693", "status": 201, "duration_ms": 182}
+{"timestamp": "2026-10-31T09:43:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46040", "status": 201, "duration_ms": 241}
+{"timestamp": "2026-10-31T09:43:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44387", "status": 201, "duration_ms": 198}
+{"timestamp": "2026-10-31T09:43:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41815", "status": 201, "duration_ms": 243}
+{"timestamp": "2026-10-31T09:43:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47991", "status": 201, "duration_ms": 274}
+{"timestamp": "2026-10-31T09:43:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42504", "status": 201, "duration_ms": 369}
+{"timestamp": "2026-10-31T09:43:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45786", "status": 201, "duration_ms": 345}
+{"timestamp": "2026-10-31T09:43:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45420", "status": 201, "duration_ms": 266}
+{"timestamp": "2026-10-31T09:43:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40397", "status": 201, "duration_ms": 206}
+{"timestamp": "2026-10-31T09:43:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40545", "status": 201, "duration_ms": 285}
+{"timestamp": "2026-10-31T09:43:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47774", "status": 201, "duration_ms": 198}
+{"timestamp": "2026-10-31T09:43:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40299", "status": 201, "duration_ms": 85}
+{"timestamp": "2026-10-31T09:43:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40016", "status": 201, "duration_ms": 298}
+{"timestamp": "2026-10-31T09:43:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40802", "status": 201, "duration_ms": 287}
+{"timestamp": "2026-10-31T09:43:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/49963", "status": 201, "duration_ms": 368}
+{"timestamp": "2026-10-31T09:44:00Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/46750", "status": 201, "duration_ms": 333}
+{"timestamp": "2026-10-31T09:44:04Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43884", "status": 201, "duration_ms": 177}
+{"timestamp": "2026-10-31T09:44:08Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40360", "status": 201, "duration_ms": 308}
+{"timestamp": "2026-10-31T09:44:12Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41110", "status": 201, "duration_ms": 104}
+{"timestamp": "2026-10-31T09:44:16Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41540", "status": 201, "duration_ms": 79}
+{"timestamp": "2026-10-31T09:44:20Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42449", "status": 201, "duration_ms": 223}
+{"timestamp": "2026-10-31T09:44:24Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/40688", "status": 201, "duration_ms": 85}
+{"timestamp": "2026-10-31T09:44:28Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47734", "status": 201, "duration_ms": 159}
+{"timestamp": "2026-10-31T09:44:32Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/43072", "status": 201, "duration_ms": 123}
+{"timestamp": "2026-10-31T09:44:36Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/41183", "status": 201, "duration_ms": 83}
+{"timestamp": "2026-10-31T09:44:40Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45087", "status": 201, "duration_ms": 122}
+{"timestamp": "2026-10-31T09:44:44Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/42320", "status": 201, "duration_ms": 187}
+{"timestamp": "2026-10-31T09:44:48Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/47566", "status": 201, "duration_ms": 234}
+{"timestamp": "2026-10-31T09:44:52Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/45803", "status": 201, "duration_ms": 155}
+{"timestamp": "2026-10-31T09:44:56Z", "level": "info", "service": "checkout-api", "message": "order created", "method": "POST", "path": "/orders/44237", "status": 201, "duration_ms": 293}
