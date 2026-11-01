@@ -1,5 +1,3 @@
-"""Tiny builders so tests read like the scenario they describe."""
-
 from __future__ import annotations
 
 from datetime import UTC, datetime, timedelta

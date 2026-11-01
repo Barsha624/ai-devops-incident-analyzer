@@ -1,9 +1,3 @@
-"""Structured logging for the tool itself (not to be confused with the logs it analyses).
-
-Diagnostics go to **stderr** so stdout stays clean for reports and can be piped, for example
-``incident-analyzer analyze app.log --format json | jq .summary``.
-"""
-
 from __future__ import annotations
 
 import json

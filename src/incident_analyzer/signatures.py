@@ -1,10 +1,3 @@
-"""Turn variable log messages into stable fingerprints ("signatures").
-
-``Timeout after 30001ms calling 10.0.3.7`` and ``Timeout after 29987ms calling 10.0.3.9`` are
-the same problem. Replacing the variable parts (numbers, IPs, ids, quoted values) with
-placeholders makes both produce the same signature, so they can be counted together.
-"""
-
 from __future__ import annotations
 
 import re

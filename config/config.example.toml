@@ -1,0 +1,31 @@
+# Example configuration. Every value shown is the default. Copy and edit:
+#   incident-analyzer analyze samples --config config/config.example.toml
+# Unknown keys are an error (so a typo cannot silently leave you on defaults).
+# API keys are NEVER read from this file; use environment variables.
+
+[analysis]
+gap_seconds = 300            # findings of one service further apart than this start a new incident
+min_events = 3               # minimum findings to report an incident (a CRITICAL log always counts)
+spike_window_seconds = 60    # bucket size for spike detection
+spike_factor = 3.0           # a window spikes at >= factor x median window count ...
+spike_min_count = 10         # ... and at least this many findings
+max_evidence = 5             # evidence items kept per incident in the report
+max_findings = 200000        # memory safety cap
+related_slack_seconds = 60   # cross-service "possibly related" overlap tolerance
+critical_services = []       # e.g. ["checkout-api"]: +1 severity point for these services
+
+[logging]                    # the tool's own diagnostics (stderr)
+level = "WARNING"            # DEBUG | INFO | WARNING | ERROR | CRITICAL
+format = "text"              # text | json
+
+[ai]                         # OPTIONAL. Off unless enabled here or with --ai.
+enabled = false
+provider = "offline"         # offline (no network) | anthropic | openai-compatible
+model = "claude-haiku-5-5"   # check your provider's current model list
+base_url = ""                # e.g. "http://localhost:11434/v1" for a local Ollama server
+max_incidents = 5            # cost control: explain at most this many incidents
+max_evidence_per_incident = 5
+max_tokens = 1200            # cap on the model's reply
+timeout_seconds = 30.0
+max_retries = 2              # retries for 429 / 5xx / network errors
+allow_external = false       # must be true (or --allow-external-ai) to use a non-local provider

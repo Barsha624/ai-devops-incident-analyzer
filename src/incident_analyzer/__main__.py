@@ -1,5 +1,3 @@
-"""Allow ``python -m incident_analyzer``."""
-
 from incident_analyzer.cli import main
 
 if __name__ == "__main__":

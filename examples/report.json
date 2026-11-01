@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0",
+  "tool": {
+    "name": "ai-devops-incident-analyzer",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-10-31T13:11:23.071Z",
+  "settings": {
+    "gap_seconds": 300,
+    "min_events": 3,
+    "spike_window_seconds": 60,
+    "spike_factor": 3.0,
+    "spike_min_count": 10,
+    "max_evidence": 5,
+    "max_findings": 200000,
+    "related_slack_seconds": 60,
+    "critical_services": []
+  },
+  "inputs": [
+    {
+      "source": "samples/checkout-api.jsonl",
+      "lines_read": 834,
+      "events_parsed": 832,
+      "malformed_lines": 2,
+      "malformed_samples": [
+        {
+          "line": 278,
+          "reason": "line does not match any supported format",
+          "snippet": "-- log rotated --"
+        },
+        {
+          "line": 418,
+          "reason": "invalid JSON: Unterminated string starting at",
+          "snippet": "{\"timestamp\": \"2026-10-31T09:20:11Z\", \"level\": \"err"
+        }
+      ],
+      "level_counts": {
+        "INFO": 675,
+        "ERROR": 121,
+        "WARN": 36
+      }
+    },
+    {
+      "source": "samples/healthy-service.log",
+      "lines_read": 30,
+      "events_parsed": 30,
+      "malformed_lines": 0,
+      "malformed_samples": [],
+      "level_counts": {
+        "INFO": 30
+      }
+    },
+    {
+      "source": "samples/inventory-service.log",
+      "lines_read": 206,
+      "events_parsed": 186,
+      "malformed_lines": 0,
+      "malformed_samples": [],
+      "level_counts": {
+        "INFO": 180,
+        "ERROR": 6
+      }
+    },
+    {
+      "source": "samples/payments-worker.log",
+      "lines_read": 441,
+      "events_parsed": 248,
+      "malformed_lines": 1,
+      "malformed_samples": [
+        {
+          "line": 441,
+          "reason": "line does not match any supported format",
+          "snippet": "Segmentation note: stderr line without a timestamp"
+        }
+      ],
+      "level_counts": {
+        "INFO": 199,
+        "ERROR": 48,
+        "CRITICAL": 1
+      }
+    },
+    {
+      "source": "samples/web-frontend.log",
+      "lines_read": 1350,
+      "events_parsed": 1350,
+      "malformed_lines": 0,
+      "malformed_samples": [],
+      "level_counts": {
+        "INFO": 1293,
+        "ERROR": 57
+      }
+    }
+  ],
+  "summary": {
+    "events_parsed": 2646,
+    "malformed_lines": 3,
+    "findings": 269,
+    "findings_by_kind": {
+      "http_5xx": 177,
+      "timeout": 84,
+      "exception": 5,
+      "error_log": 3
+    },
+    "incidents": 4,
+    "incidents_by_severity": {
+      "low": 0,
+      "medium": 1,
+      "high": 1,
+      "critical": 2
+    },
+    "highest_severity": "critical",
+    "time_range": {
+      "start": "2026-10-31T09:00:00.000Z",
+      "end": "2026-10-31T09:44:58.000Z"
+    },
+    "services": [
+      "checkout-api",
+      "inventory-service",
+      "payments-worker",
+      "reports-service",
+      "web-frontend"
+    ],
+    "below_threshold": {
+      "groups": 1,
+      "findings": 1
+    }
+  },
+  "incidents": [
+    {
+      "id": "INC-001",
+      "title": "payments-worker: Failed to charge order <n>: connection timed out x48 (+1 other signature)",
+      "service": "payments-worker",
+      "severity": "critical",
+      "severity_score": 8,
+      "severity_reasons": [
+        "+2 base: most serious finding kind is timeout",
+        "+2 volume: 49 findings (>= 20)",
+        "+1 duration: lasted 11.7 min (>= 5 min)",
+        "+2 critical: CRITICAL/FATAL log line present",
+        "+1 variety: 2 different finding kinds"
+      ],
+      "first_seen": "2026-10-31T09:12:05.414Z",
+      "last_seen": "2026-10-31T09:23:50.341Z",
+      "duration_seconds": 704.927,
+      "finding_count": 49,
+      "kinds": {
+        "timeout": 48,
+        "error_log": 1
+      },
+      "rules_triggered": [
+        "R-ERROR-LEVEL",
+        "R-EXCEPTION",
+        "R-TIMEOUT"
+      ],
+      "top_signatures": [
+        {
+          "signature": "Failed to charge order <n>: connection timed out",
+          "count": 48
+        },
+        {
+          "signature": "consumer pool exhausted, restarting worker",
+          "count": 1
+        }
+      ],
+      "spikes": [],
+      "possibly_related_incidents": [
+        "INC-002",
+        "INC-003"
+      ],
+      "evidence": [
+        {
+          "evidence_id": "INC-001-E1",
+          "source": "samples/payments-worker.log",
+          "line": 73,
+          "timestamp": "2026-10-31T09:12:05.414Z",
+          "level": "ERROR",
+          "kind": "timeout",
+          "rules": [
+            "R-TIMEOUT",
+            "R-EXCEPTION",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "Failed to charge order <n>: connection timed out",
+          "excerpt": "2026-10-31 09:12:05,414 - payments-worker - ERROR - Failed to charge order 45784: connection timed out | sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00"
+        },
+        {
+          "evidence_id": "INC-001-E2",
+          "source": "samples/payments-worker.log",
+          "line": 233,
+          "timestamp": "2026-10-31T09:20:00.212Z",
+          "level": "CRITICAL",
+          "kind": "error_log",
+          "rules": [
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "consumer pool exhausted, restarting worker",
+          "excerpt": "2026-10-31 09:20:00,212 - payments-worker - CRITICAL - consumer pool exhausted, restarting worker"
+        },
+        {
+          "evidence_id": "INC-001-E3",
+          "source": "samples/payments-worker.log",
+          "line": 309,
+          "timestamp": "2026-10-31T09:23:50.341Z",
+          "level": "ERROR",
+          "kind": "timeout",
+          "rules": [
+            "R-TIMEOUT",
+            "R-EXCEPTION",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "Failed to charge order <n>: connection timed out",
+          "excerpt": "2026-10-31 09:23:50,341 - payments-worker - ERROR - Failed to charge order 41837: connection timed out | sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00"
+        }
+      ]
+    },
+    {
+      "id": "INC-002",
+      "title": "checkout-api: HTTP 502 POST /orders/<id>/pay x83 (+3 other signatures)",
+      "service": "checkout-api",
+      "severity": "critical",
+      "severity_score": 8,
+      "severity_reasons": [
+        "+2 base: most serious finding kind is http_5xx",
+        "+3 volume: 157 findings (>= 100)",
+        "+1 duration: lasted 11.9 min (>= 5 min)",
+        "+1 spike: error spike overlaps this incident (peak 14 findings/window)",
+        "+1 variety: 3 different finding kinds"
+      ],
+      "first_seen": "2026-10-31T09:13:00.000Z",
+      "last_seen": "2026-10-31T09:24:54.000Z",
+      "duration_seconds": 714.0,
+      "finding_count": 157,
+      "kinds": {
+        "http_5xx": 120,
+        "timeout": 36,
+        "error_log": 1
+      },
+      "rules_triggered": [
+        "R-ERROR-LEVEL",
+        "R-HTTP-5XX",
+        "R-TIMEOUT"
+      ],
+      "top_signatures": [
+        {
+          "signature": "HTTP 502 POST /orders/<id>/pay",
+          "count": 83
+        },
+        {
+          "signature": "HTTP 504 POST /orders/<id>/pay",
+          "count": 37
+        },
+        {
+          "signature": "request to payments-worker timed out after <n>ms",
+          "count": 36
+        },
+        {
+          "signature": "payment failed for jane.doe@example.com from <ip> api_key=not-a-real-key Authorization: Bearer fake.example.token",
+          "count": 1
+        }
+      ],
+      "spikes": [
+        {
+          "service": "checkout-api",
+          "start": "2026-10-31T09:13:00.000Z",
+          "end": "2026-10-31T09:25:00.000Z",
+          "peak_findings_per_window": 14,
+          "total_findings": 157,
+          "window_seconds": 60,
+          "baseline_per_window": 0.0,
+          "threshold_per_window": 10.0
+        }
+      ],
+      "possibly_related_incidents": [
+        "INC-001",
+        "INC-003"
+      ],
+      "evidence": [
+        {
+          "evidence_id": "INC-002-E1",
+          "source": "samples/checkout-api.jsonl",
+          "line": 197,
+          "timestamp": "2026-10-31T09:13:00.000Z",
+          "level": "ERROR",
+          "kind": "http_5xx",
+          "rules": [
+            "R-HTTP-5XX",
+            "R-TIMEOUT",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "HTTP 504 POST /orders/<id>/pay",
+          "excerpt": "{\"timestamp\": \"2026-10-31T09:13:00Z\", \"level\": \"error\", \"service\": \"checkout-api\", \"message\": \"upstream payments-worker returned HTTP 504\", \"method\": \"POST\", \"path\": \"/orders/40161/pay\", \"status\": 504}"
+        },
+        {
+          "evidence_id": "INC-002-E2",
+          "source": "samples/checkout-api.jsonl",
+          "line": 198,
+          "timestamp": "2026-10-31T09:13:03.000Z",
+          "level": "WARN",
+          "kind": "timeout",
+          "rules": [
+            "R-TIMEOUT"
+          ],
+          "signature": "request to payments-worker timed out after <n>ms",
+          "excerpt": "{\"timestamp\": \"2026-10-31T09:13:03Z\", \"level\": \"warning\", \"service\": \"checkout-api\", \"message\": \"request to payments-worker timed out after 29943ms\"}"
+        },
+        {
+          "evidence_id": "INC-002-E3",
+          "source": "samples/checkout-api.jsonl",
+          "line": 200,
+          "timestamp": "2026-10-31T09:13:06.000Z",
+          "level": "ERROR",
+          "kind": "http_5xx",
+          "rules": [
+            "R-HTTP-5XX",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "HTTP 502 POST /orders/<id>/pay",
+          "excerpt": "{\"timestamp\": \"2026-10-31T09:13:06Z\", \"level\": \"error\", \"service\": \"checkout-api\", \"message\": \"upstream payments-worker returned HTTP 502\", \"method\": \"POST\", \"path\": \"/orders/45540/pay\", \"status\": 502}"
+        },
+        {
+          "evidence_id": "INC-002-E4",
+          "source": "samples/checkout-api.jsonl",
+          "line": 301,
+          "timestamp": "2026-10-31T09:16:40.000Z",
+          "level": "ERROR",
+          "kind": "error_log",
+          "rules": [
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "payment failed for jane.doe@example.com from <ip> api_key=not-a-real-key Authorization: Bearer fake.example.token",
+          "excerpt": "{\"timestamp\": \"2026-10-31T09:16:40Z\", \"level\": \"error\", \"service\": \"checkout-api\", \"message\": \"payment failed for jane.doe@example.com from 203.0.113.50 api_key=not-a-real-key Authorization: Bearer fake.example.token\"}"
+        },
+        {
+          "evidence_id": "INC-002-E5",
+          "source": "samples/checkout-api.jsonl",
+          "line": 533,
+          "timestamp": "2026-10-31T09:24:54.000Z",
+          "level": "ERROR",
+          "kind": "http_5xx",
+          "rules": [
+            "R-HTTP-5XX",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "HTTP 502 POST /orders/<id>/pay",
+          "excerpt": "{\"timestamp\": \"2026-10-31T09:24:54Z\", \"level\": \"error\", \"service\": \"checkout-api\", \"message\": \"upstream payments-worker returned HTTP 502\", \"method\": \"POST\", \"path\": \"/orders/49420/pay\", \"status\": 502}"
+        }
+      ]
+    },
+    {
+      "id": "INC-003",
+      "title": "web-frontend: HTTP 502 POST /api/checkout/<id> x57",
+      "service": "web-frontend",
+      "severity": "high",
+      "severity_score": 5,
+      "severity_reasons": [
+        "+2 base: most serious finding kind is http_5xx",
+        "+2 volume: 57 findings (>= 20)",
+        "+1 duration: lasted 11.4 min (>= 5 min)"
+      ],
+      "first_seen": "2026-10-31T09:13:10.000Z",
+      "last_seen": "2026-10-31T09:24:34.000Z",
+      "duration_seconds": 684.0,
+      "finding_count": 57,
+      "kinds": {
+        "http_5xx": 57
+      },
+      "rules_triggered": [
+        "R-ERROR-LEVEL",
+        "R-HTTP-5XX"
+      ],
+      "top_signatures": [
+        {
+          "signature": "HTTP 502 POST /api/checkout/<id>",
+          "count": 57
+        }
+      ],
+      "spikes": [],
+      "possibly_related_incidents": [
+        "INC-001",
+        "INC-002"
+      ],
+      "evidence": [
+        {
+          "evidence_id": "INC-003-E1",
+          "source": "samples/web-frontend.log",
+          "line": 396,
+          "timestamp": "2026-10-31T09:13:10.000Z",
+          "level": "ERROR",
+          "kind": "http_5xx",
+          "rules": [
+            "R-HTTP-5XX",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "HTTP 502 POST /api/checkout/<id>",
+          "excerpt": "203.0.113.57 - - [31/Oct/2026:09:13:10 +0000] \"POST /api/checkout/48207 HTTP/1.1\" 502 3026"
+        },
+        {
+          "evidence_id": "INC-003-E2",
+          "source": "samples/web-frontend.log",
+          "line": 738,
+          "timestamp": "2026-10-31T09:24:34.000Z",
+          "level": "ERROR",
+          "kind": "http_5xx",
+          "rules": [
+            "R-HTTP-5XX",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "HTTP 502 POST /api/checkout/<id>",
+          "excerpt": "203.0.113.199 - - [31/Oct/2026:09:24:34 +0000] \"POST /api/checkout/44326 HTTP/1.1\" 502 3326"
+        }
+      ]
+    },
+    {
+      "id": "INC-004",
+      "title": "inventory-service: KeyError x5",
+      "service": "inventory-service",
+      "severity": "medium",
+      "severity_score": 3,
+      "severity_reasons": [
+        "+2 base: most serious finding kind is exception",
+        "+1 volume: 5 findings (>= 5)"
+      ],
+      "first_seen": "2026-10-31T09:35:10.000Z",
+      "last_seen": "2026-10-31T09:37:58.000Z",
+      "duration_seconds": 168.0,
+      "finding_count": 5,
+      "kinds": {
+        "exception": 5
+      },
+      "rules_triggered": [
+        "R-ERROR-LEVEL",
+        "R-EXCEPTION"
+      ],
+      "top_signatures": [
+        {
+          "signature": "KeyError",
+          "count": 5
+        }
+      ],
+      "spikes": [],
+      "possibly_related_incidents": [],
+      "evidence": [
+        {
+          "evidence_id": "INC-004-E1",
+          "source": "samples/inventory-service.log",
+          "line": 143,
+          "timestamp": "2026-10-31T09:35:10.000Z",
+          "level": "ERROR",
+          "kind": "exception",
+          "rules": [
+            "R-EXCEPTION",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "KeyError",
+          "excerpt": "2026-10-31T09:35:10Z ERROR [inventory-service] Unhandled exception in /stock/sync | KeyError: 'sku'"
+        },
+        {
+          "evidence_id": "INC-004-E2",
+          "source": "samples/inventory-service.log",
+          "line": 174,
+          "timestamp": "2026-10-31T09:37:58.000Z",
+          "level": "ERROR",
+          "kind": "exception",
+          "rules": [
+            "R-EXCEPTION",
+            "R-ERROR-LEVEL"
+          ],
+          "signature": "KeyError",
+          "excerpt": "2026-10-31T09:37:58Z ERROR [inventory-service] Unhandled exception in /stock/sync | KeyError: 'sku'"
+        }
+      ]
+    }
+  ],
+  "spikes": [
+    {
+      "service": "checkout-api",
+      "start": "2026-10-31T09:13:00.000Z",
+      "end": "2026-10-31T09:25:00.000Z",
+      "peak_findings_per_window": 14,
+      "total_findings": 157,
+      "window_seconds": 60,
+      "baseline_per_window": 0.0,
+      "threshold_per_window": 10.0
+    }
+  ],
+  "warnings": [],
+  "ai": null
+}

@@ -1,13 +1,3 @@
-"""Configuration: sensible defaults, optional TOML file, strict validation.
-
-Design choices worth knowing:
-
-* Unknown keys are an **error**, not silently ignored, so a typo such as ``gap_second`` cannot
-  quietly leave you running with defaults.
-* API keys are never read from the config file. They come from environment variables only, so
-  a config file can be committed without leaking a secret.
-"""
-
 from __future__ import annotations
 
 import tomllib

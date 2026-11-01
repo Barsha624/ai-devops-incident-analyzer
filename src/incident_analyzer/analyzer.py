@@ -1,9 +1,3 @@
-"""The analysis pipeline: parse -> detect -> spikes -> group -> score.
-
-Events are processed as a stream: only *findings* (a small subset of all events) are kept in
-memory, so a large log with few errors stays cheap.
-"""
-
 from __future__ import annotations
 
 import logging

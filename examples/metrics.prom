@@ -1,0 +1,36 @@
+# HELP incident_analyzer_info Build information (value is always 1).
+# TYPE incident_analyzer_info gauge
+incident_analyzer_info{version="0.1.0"} 1
+# HELP incident_analyzer_analysis_failures_total Analyses that failed since the exporter started.
+# TYPE incident_analyzer_analysis_failures_total counter
+incident_analyzer_analysis_failures_total 0
+# HELP incident_analyzer_last_analysis_timestamp_seconds Unix time of the last successful analysis.
+# TYPE incident_analyzer_last_analysis_timestamp_seconds gauge
+incident_analyzer_last_analysis_timestamp_seconds 1793452283.3421097
+# HELP incident_analyzer_analysis_duration_seconds Seconds the last analysis took.
+# TYPE incident_analyzer_analysis_duration_seconds gauge
+incident_analyzer_analysis_duration_seconds 0.1086726930000168
+# HELP incident_analyzer_events_parsed Log events parsed in the last analysis.
+# TYPE incident_analyzer_events_parsed gauge
+incident_analyzer_events_parsed 2646
+# HELP incident_analyzer_malformed_lines Lines that could not be parsed in the last analysis.
+# TYPE incident_analyzer_malformed_lines gauge
+incident_analyzer_malformed_lines 3
+# HELP incident_analyzer_findings Findings by detection kind in the last analysis.
+# TYPE incident_analyzer_findings gauge
+incident_analyzer_findings{kind="http_5xx"} 177
+incident_analyzer_findings{kind="timeout"} 84
+incident_analyzer_findings{kind="exception"} 5
+incident_analyzer_findings{kind="error_log"} 3
+# HELP incident_analyzer_incidents Incidents by severity in the last analysis.
+# TYPE incident_analyzer_incidents gauge
+incident_analyzer_incidents{severity="low"} 0
+incident_analyzer_incidents{severity="medium"} 1
+incident_analyzer_incidents{severity="high"} 1
+incident_analyzer_incidents{severity="critical"} 2
+# HELP incident_analyzer_highest_severity Highest incident severity (0 none, 1 low, 2 medium, 3 high, 4 critical).
+# TYPE incident_analyzer_highest_severity gauge
+incident_analyzer_highest_severity 4
+# HELP incident_analyzer_error_spikes Error spikes detected in the last analysis.
+# TYPE incident_analyzer_error_spikes gauge
+incident_analyzer_error_spikes 1

@@ -1,0 +1,16 @@
+{
+  "description": "Ground truth for the SYNTHETIC samples/ data, written from the story in scripts/generate_samples.py. This is a regression check, NOT a measure of real-world accuracy.",
+  "logs": [
+    "../samples/web-frontend.log",
+    "../samples/checkout-api.jsonl",
+    "../samples/payments-worker.log",
+    "../samples/inventory-service.log",
+    "../samples/healthy-service.log"
+  ],
+  "expected_incidents": [
+    {"name": "payments db pool exhaustion", "service": "payments-worker", "start": "2026-10-31T09:12:00Z", "end": "2026-10-31T09:25:00Z"},
+    {"name": "checkout 502/504 from payments", "service": "checkout-api", "start": "2026-10-31T09:13:00Z", "end": "2026-10-31T09:25:00Z"},
+    {"name": "frontend 502 on checkout route", "service": "web-frontend", "start": "2026-10-31T09:13:00Z", "end": "2026-10-31T09:25:00Z"},
+    {"name": "inventory KeyError after deploy", "service": "inventory-service", "start": "2026-10-31T09:35:00Z", "end": "2026-10-31T09:38:30Z"}
+  ]
+}

@@ -1,5 +1,3 @@
-"""Parse one JSON log record (a dict) into a ``LogEvent``."""
-
 from __future__ import annotations
 
 import json
@@ -60,11 +58,7 @@ def parse_json_record(
     raw: str,
     default_service: str,
 ) -> LogEvent | None:
-    """Convert a decoded JSON object to a ``LogEvent``.
-
-    Returns None when the object has none of the fields we understand (timestamp, level, message
-    or HTTP status). That is reported as a malformed line instead of becoming an empty event.
-    """
+    
     timestamp = parse_timestamp(_first(record, TIMESTAMP_KEYS))
     level = parse_level(_first(record, LEVEL_KEYS))
     message_value = _first(record, MESSAGE_KEYS)

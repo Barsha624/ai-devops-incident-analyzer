@@ -1,9 +1,3 @@
-"""Build the machine-readable report and render the terminal summary.
-
-The JSON report is the single source of truth: the terminal view is rendered *from the report
-dict*, so the two can never disagree. Report schema: docs/report-schema.md.
-"""
-
 from __future__ import annotations
 
 import json
@@ -26,10 +20,7 @@ TOP_SIGNATURES = 5
 
 
 def select_evidence(incident: Incident, limit: int) -> list[Finding]:
-    """Pick representative findings: one example per signature (most common first) + the last.
-
-    Deterministic and bounded, so reports stay small and reproducible.
-    """
+    
     firsts: dict[str, Finding] = {}
     for finding in incident.findings:
         firsts.setdefault(finding.signature, finding)
@@ -271,10 +262,14 @@ def render_terminal(report: dict[str, Any], *, color: bool = False, max_evidence
             lines.append(f"  note: {ai['error']}")
         for item in ai.get("incidents", []):
             lines.append(f"  {item['incident_id']}: {item['summary']}")
+            for fact in item["observed_facts"]:
+                lines.append(f"    observed [{', '.join(fact['evidence_ids'])}]: {fact['fact']}")
             for hypothesis in item["hypotheses"]:
                 lines.append(
                     f"    hypothesis ({hypothesis['confidence']}): {hypothesis['statement']}"
                 )
             for step in item["investigation_steps"]:
                 lines.append(f"    next step: {step}")
+        if ai.get("disclaimer"):
+            lines.append(f"  ({ai['disclaimer']})")
     return "\n".join(lines) + "\n"

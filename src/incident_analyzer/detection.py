@@ -1,17 +1,3 @@
-"""Deterministic detection rules.
-
-Each rule is a small, readable function. A log event produces **at most one** ``Finding``.
-When several rules match, the one with the highest priority names the finding's ``kind``, and
-every matching rule id is kept in ``Finding.rules`` so the result stays explainable.
-
-Priority: HTTP_5XX > TIMEOUT > EXCEPTION > ERROR_LOG.
-(A 504 that also says "timed out" is reported as an HTTP 5xx and lists both rule ids.)
-
-Why rules first, not machine learning? They are predictable, testable line by line, need no
-training data and can be explained to an on-call engineer in one sentence. See
-docs/why-deterministic-first.md.
-"""
-
 from __future__ import annotations
 
 import re

@@ -1,9 +1,3 @@
-"""Timestamp parsing.
-
-All timestamps are normalised to timezone-aware UTC datetimes. Naive timestamps (no offset in
-the log) are assumed to already be UTC; this assumption is documented in docs/limitations.md.
-"""
-
 from __future__ import annotations
 
 import contextlib
@@ -29,11 +23,7 @@ def _from_epoch(number: float) -> datetime | None:
 
 
 def parse_timestamp(value: object) -> datetime | None:
-    """Parse a timestamp from a JSON value or a text fragment.
-
-    Returns None (never raises) when the value is not a recognisable timestamp, so a single bad
-    field cannot abort an analysis run.
-    """
+    
     if value is None or isinstance(value, bool):
         return None
     if isinstance(value, int | float):

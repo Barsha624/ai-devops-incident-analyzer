@@ -1,17 +1,3 @@
-"""Error-spike detection (rule R-SPIKE).
-
-Method (deliberately simple and explainable):
-
-1. Split the log's time range into fixed windows (default 60 s).
-2. For each service, count findings per window. Windows with no findings count as zero.
-3. Baseline = the *median* of those per-window counts (the median is robust to the spike itself).
-4. A window is a spike when ``count >= max(min_count, factor * max(baseline, 1))``.
-5. Consecutive spiking windows are merged into one ``SpikePeriod``.
-
-Known weakness: if errors fill most of the log, the median is itself high and real spikes can be
-missed. That trade-off is documented in docs/limitations.md.
-"""
-
 from __future__ import annotations
 
 import statistics

@@ -1,9 +1,3 @@
-"""Read log files and streams into ``LogEvent`` objects.
-
-The key design rule: **one bad line must never abort the analysis**. Lines we cannot parse are
-counted and sampled in ``ParseStats`` so the report can say how much input was understood.
-"""
-
 from __future__ import annotations
 
 import gzip

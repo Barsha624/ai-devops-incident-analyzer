@@ -1,24 +1,3 @@
-"""Explainable severity scoring.
-
-Severity is a **sum of documented points**. Every point added is recorded as a human-readable
-reason, so the report can always answer "why is this HIGH?" (see docs/severity.md).
-
-    base       highest-ranked finding kind present      http_5xx / timeout / exception = +2,
-                                                         error_log = +1
-    volume     number of findings                        >=5: +1   >=20: +2   >=100: +3
-    duration   incident lasted >= 5 minutes              +1
-    spike      overlaps an error spike (R-SPIKE)         +1
-    critical   a CRITICAL/FATAL log line is present      +2
-    variety    two or more finding kinds                 +1
-    service    service is listed in critical_services    +1
-    ongoing    still producing findings at end of log    +1
-
-    score <= 2 -> LOW      3-4 -> MEDIUM      5-6 -> HIGH      >= 7 -> CRITICAL
-
-The thresholds are heuristics chosen to be easy to reason about. They are NOT calibrated against
-real incident data; tune them for your own system.
-"""
-
 from __future__ import annotations
 
 from collections.abc import Iterable

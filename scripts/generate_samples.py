@@ -1,21 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the synthetic sample logs in ``samples/``.
 
-Everything is invented and the generator is seeded, so running it twice produces identical files.
-Addresses use documentation-only ranges (203.0.113.0/24, 10.0.0.0/8) and e-mail addresses use
-example.com. Nothing here comes from a real system.
-
-The scripted story (all times UTC, 2026-10-31):
-
-* 09:12-09:24  payments-worker exhausts its database connection pool (timeouts + a CRITICAL line)
-* 09:13-09:25  checkout-api returns 502/504 because payments-worker is failing
-* 09:13-09:25  web-frontend (nginx) serves 502s on the checkout route
-* 09:35-09:38  inventory-service hits a KeyError bug after a (fictional) deploy
-* 09:05        one isolated inventory-service error (too small to be an incident)
-* A few deliberately broken lines to exercise malformed-line handling
-
-Usage:  python scripts/generate_samples.py [output_dir]
-"""
 
 from __future__ import annotations
 
@@ -40,7 +24,10 @@ def iso(seconds: float) -> str:
 def write(path: Path, rows: list[tuple[float, str]], tail: list[str] | None = None) -> None:
     rows.sort(key=lambda r: r[0])
     lines = [text for _, text in rows] + (tail or [])
-    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    with path.open("w", encoding="utf-8", newline="\n") as f:
+        f.write("\n".join(lines) + "\n")
+
     print(f"wrote {path} ({len(lines)} lines)")
 
 
@@ -202,7 +189,7 @@ def inventory_service(rng: random.Random) -> list[tuple[float, str]]:
 
 
 def healthy_service(rng: random.Random) -> list[tuple[float, str]]:
-    """A quiet log: should produce no incidents."""
+    
     return [
         (
             second,
@@ -228,7 +215,9 @@ def main() -> None:
     texts = [t for _, t in rows]
     texts.insert(len(texts) // 2, broken[0])
     texts.insert(len(texts) // 3, broken[1])
-    (out / "checkout-api.jsonl").write_text("\n".join(texts) + "\n", encoding="utf-8")
+    
+    with (out / "checkout-api.jsonl").open("w", encoding="utf-8", newline="\n") as f:
+      f.write("\n".join(texts) + "\n")
     print(f"wrote {out / 'checkout-api.jsonl'} ({len(texts)} lines)")
 
     rows, broken = payments_worker(rng)

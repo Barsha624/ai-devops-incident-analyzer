@@ -1,11 +1,3 @@
-"""Exception hierarchy.
-
-Every error this tool raises on purpose derives from ``IncidentAnalyzerError`` so the CLI can
-catch one base class, print a clean message and exit with a meaningful status code instead of
-showing a stack trace to the user. Unexpected bugs are NOT caught this way: they should crash
-loudly so they get fixed.
-"""
-
 from __future__ import annotations
 
 

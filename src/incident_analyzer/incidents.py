@@ -1,19 +1,3 @@
-"""Group findings into incidents.
-
-Grouping rule (documented in docs/grouping.md):
-
-1. Findings are grouped **per service**.
-2. Within a service, findings are sorted by time and a new group starts whenever the gap to the
-   previous finding is larger than ``gap_seconds``.
-3. A group becomes an incident only if it has at least ``min_events`` findings or contains a
-   CRITICAL-level log line. Smaller groups are counted but not reported as incidents.
-4. Incidents of *different* services whose time ranges overlap are linked as "possibly related".
-   This is only a time-overlap hint, never a causal claim.
-
-Findings that have no parseable timestamp cannot be placed on a timeline, so each service's
-undated findings form one separate group.
-"""
-
 from __future__ import annotations
 
 from collections import Counter, defaultdict

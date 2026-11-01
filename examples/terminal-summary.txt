@@ -1,0 +1,70 @@
+Incident analysis  (tool v0.1.0)
+Inputs: 5 source(s) | events parsed: 2646 | malformed lines: 3
+Time range: 2026-10-31T09:00:00Z -> 2026-10-31T09:44:58Z
+Findings: 269 (http_5xx=177, timeout=84, exception=5, error_log=3)
+Incidents: 4 (medium=1, high=1, critical=2)
+Below reporting threshold: 1 finding(s) in 1 small group(s), not reported as incidents
+
+[ CRITICAL ] INC-001  payments-worker: Failed to charge order <n>: connection timed out x48 (+1 other signature)
+  window   : 2026-10-31T09:12:05Z -> 2026-10-31T09:23:50Z (11.7 min), 49 findings
+  kinds    : timeout=48, error_log=1
+  score    : 8  (why:)
+             +2 base: most serious finding kind is timeout
+             +2 volume: 49 findings (>= 20)
+             +1 duration: lasted 11.7 min (>= 5 min)
+             +2 critical: CRITICAL/FATAL log line present
+             +1 variety: 2 different finding kinds
+  related  : INC-002, INC-003 (overlap in time only; not proof of causation)
+  evidence :
+    - payments-worker.log:73 [2026-10-31T09:12:05Z]
+      2026-10-31 09:12:05,414 - payments-worker - ERROR - Failed to charge order 45784: connection timed out | sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 ...
+    - payments-worker.log:233 [2026-10-31T09:20:00Z]
+      2026-10-31 09:20:00,212 - payments-worker - CRITICAL - consumer pool exhausted, restarting worker
+    - payments-worker.log:309 [2026-10-31T09:23:50Z]
+      2026-10-31 09:23:50,341 - payments-worker - ERROR - Failed to charge order 41837: connection timed out | sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 ...
+
+[ CRITICAL ] INC-002  checkout-api: HTTP 502 POST /orders/<id>/pay x83 (+3 other signatures)
+  window   : 2026-10-31T09:13:00Z -> 2026-10-31T09:24:54Z (11.9 min), 157 findings
+  kinds    : http_5xx=120, timeout=36, error_log=1
+  score    : 8  (why:)
+             +2 base: most serious finding kind is http_5xx
+             +3 volume: 157 findings (>= 100)
+             +1 duration: lasted 11.9 min (>= 5 min)
+             +1 spike: error spike overlaps this incident (peak 14 findings/window)
+             +1 variety: 3 different finding kinds
+  spike    : 2026-10-31T09:13:00Z -> 2026-10-31T09:25:00Z, peak 14/window vs baseline 0
+  related  : INC-001, INC-003 (overlap in time only; not proof of causation)
+  evidence :
+    - checkout-api.jsonl:197 [2026-10-31T09:13:00Z]
+      {"timestamp": "2026-10-31T09:13:00Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 504", "method": "POST", "p...
+    - checkout-api.jsonl:198 [2026-10-31T09:13:03Z]
+      {"timestamp": "2026-10-31T09:13:03Z", "level": "warning", "service": "checkout-api", "message": "request to payments-worker timed out after 29943ms"}
+    - checkout-api.jsonl:200 [2026-10-31T09:13:06Z]
+      {"timestamp": "2026-10-31T09:13:06Z", "level": "error", "service": "checkout-api", "message": "upstream payments-worker returned HTTP 502", "method": "POST", "p...
+    ... and 2 more in the JSON report
+
+[ HIGH ] INC-003  web-frontend: HTTP 502 POST /api/checkout/<id> x57
+  window   : 2026-10-31T09:13:10Z -> 2026-10-31T09:24:34Z (11.4 min), 57 findings
+  kinds    : http_5xx=57
+  score    : 5  (why:)
+             +2 base: most serious finding kind is http_5xx
+             +2 volume: 57 findings (>= 20)
+             +1 duration: lasted 11.4 min (>= 5 min)
+  related  : INC-001, INC-002 (overlap in time only; not proof of causation)
+  evidence :
+    - web-frontend.log:396 [2026-10-31T09:13:10Z]
+      203.0.113.57 - - [31/Oct/2026:09:13:10 +0000] "POST /api/checkout/48207 HTTP/1.1" 502 3026
+    - web-frontend.log:738 [2026-10-31T09:24:34Z]
+      203.0.113.199 - - [31/Oct/2026:09:24:34 +0000] "POST /api/checkout/44326 HTTP/1.1" 502 3326
+
+[ MEDIUM ] INC-004  inventory-service: KeyError x5
+  window   : 2026-10-31T09:35:10Z -> 2026-10-31T09:37:58Z (2.8 min), 5 findings
+  kinds    : exception=5
+  score    : 3  (why:)
+             +2 base: most serious finding kind is exception
+             +1 volume: 5 findings (>= 5)
+  evidence :
+    - inventory-service.log:143 [2026-10-31T09:35:10Z]
+      2026-10-31T09:35:10Z ERROR [inventory-service] Unhandled exception in /stock/sync | KeyError: 'sku'
+    - inventory-service.log:174 [2026-10-31T09:37:58Z]
+      2026-10-31T09:37:58Z ERROR [inventory-service] Unhandled exception in /stock/sync | KeyError: 'sku'

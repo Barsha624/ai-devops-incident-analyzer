@@ -1,15 +1,3 @@
-"""Parse plain-text log lines.
-
-Supported shapes (see docs/log-formats.md):
-
-1. ``2026-10-31T09:30:00Z ERROR [checkout] message``       (bracketed service, optional)
-2. ``2026-10-31 09:30:00,123 - checkout - ERROR - message``  (Python logging default style)
-3. ``10.0.0.1 - - [31/Oct/2026:09:30:00 +0000] "GET /x HTTP/1.1" 502 0``  (nginx / Apache)
-
-Regular expressions are compiled once at import time: compiling inside a function that runs for
-every line would waste a lot of time on large files.
-"""
-
 from __future__ import annotations
 
 import re

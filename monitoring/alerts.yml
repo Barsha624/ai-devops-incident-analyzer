@@ -1,0 +1,38 @@
+# EXAMPLE alert rules. The thresholds are illustrative; tune them to your own service.
+groups:
+  - name: incident-analyzer
+    rules:
+      - alert: CriticalIncidentDetected
+        expr: incident_analyzer_incidents{severity="critical"} > 0
+        for: 1m
+        labels: {severity: page}
+        annotations:
+          summary: "{{ $value }} critical incident(s) in the analysed logs"
+          description: "Run the analyzer for the evidence; severity reasons are in the JSON report."
+
+      - alert: HighIncidentDetected
+        expr: incident_analyzer_incidents{severity="high"} > 0
+        for: 5m
+        labels: {severity: ticket}
+        annotations:
+          summary: "{{ $value }} high-severity incident(s) in the analysed logs"
+
+      - alert: AnalyzerStale
+        expr: time() - incident_analyzer_last_analysis_timestamp_seconds > 300
+        for: 2m
+        labels: {severity: ticket}
+        annotations:
+          summary: "The analyzer has not completed an analysis for over 5 minutes"
+
+      - alert: AnalyzerFailing
+        expr: increase(incident_analyzer_analysis_failures_total[10m]) > 0
+        labels: {severity: ticket}
+        annotations:
+          summary: "Analyses are failing (unreadable path or permissions?)"
+
+      - alert: LogsMostlyUnparseable
+        expr: incident_analyzer_malformed_lines / clamp_min(incident_analyzer_events_parsed + incident_analyzer_malformed_lines, 1) > 0.5
+        for: 10m
+        labels: {severity: ticket}
+        annotations:
+          summary: "More than half of the log lines are not understood; see docs/log-formats.md"
